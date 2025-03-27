@@ -1,0 +1,19 @@
+theory: !defaults [theories/camb]
+likelihood: !defaults [likelihoods/desi_dr2, likelihoods/planck_act]
+params: !defaults [parameters/cosmo, parameters/camb_params]
+
+prior:
+  cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'
+
+sampler:
+  mcmc:
+    drag: true
+    oversample_power: 0.4
+    proposal_scale: 1.9
+    covmat: auto
+    Rminus1_stop: 0.01
+    Rminus1_cl_stop: 0.2
+
+output: chains/planck-desi-wcdm
+allow_changes: true
+force: true
