@@ -1,0 +1,15 @@
+
+theory: !defaults [../theories/w0wacdm_camb]
+likelihood: !defaults [../likelihoods/planck, ../likelihoods/lensing, ../likelihoods/desi_dr2, ../likelihoods/pantheon]
+params: !defaults [../parameters/w0wacdm_camb]
+
+sampler:
+  mcmc:
+    drag: true
+    oversample_power: 0.4
+    proposal_scale: 1.9
+    covmat: auto
+    Rminus1_stop: 0.01
+    Rminus1_cl_stop: 0.2
+resume: true
+output: ../chains/w0wacdm-plbs

@@ -1,6 +1,6 @@
-theory: !defaults [theories/camb]
-likelihood: !defaults [likelihoods/desi_dr2, likelihoods/planck_act]
-params: !defaults [parameters/cosmo, parameters/camb_params]
+theory: !defaults [../theories/lcdm_camb]
+likelihood: !defaults [../likelihoods/planck_act, ../likelihoods/lensing]
+params: !defaults [../parameters/lcdmtau_camb]
 
 prior:
   cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'
@@ -13,7 +13,5 @@ sampler:
     covmat: auto
     Rminus1_stop: 0.01
     Rminus1_cl_stop: 0.2
-
-output: chains/planck-desi-wcdm
-allow_changes: true
-force: true
+resume: true
+output: ../chains/lcdm-pactl
