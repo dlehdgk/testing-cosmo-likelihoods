@@ -1,0 +1,17 @@
+theory: !defaults [../theories/lcdm_camb]
+likelihood: !defaults [../likelihoods/act_lite]
+params: !defaults [../parameters/lcdmold_camb]
+
+prior:
+  cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'
+
+sampler:
+  mcmc:
+    drag: true
+    oversample_power: 0.4
+    proposal_scale: 1.9
+    covmat: auto
+    Rminus1_stop: 0.01
+    Rminus1_cl_stop: 0.2
+resume: true
+output: ../chains/old-tau

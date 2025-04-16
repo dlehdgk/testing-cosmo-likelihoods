@@ -1,0 +1,31 @@
+[0 : output] Output to be read-from/written-into folder '../chains', with prefix 'old-theory'
+[0 : prior] *WARNING* External prior 'cal_dip_prior' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB/camb
+[0 : mcmc] Getting initial point... (this may take a few seconds)
+[2 : mcmc] Getting initial point... (this may take a few seconds)
+[1 : mcmc] Getting initial point... (this may take a few seconds)
+[3 : mcmc] Getting initial point... (this may take a few seconds)
+[0 : mcmc] Initial point: logA:3.050556, ns:0.9651814, theta_MC_100:1.040772, ombh2:0.02241414, omch2:0.119411, tau:0.05210332, A_act:0.925655, P_act:0.9175627
+[3 : mcmc] Initial point: logA:3.050094, ns:0.9685938, theta_MC_100:1.04142, ombh2:0.02249512, omch2:0.1187084, tau:0.06831366, A_act:1.053554, P_act:1.017073
+[2 : mcmc] Initial point: logA:3.050668, ns:0.9641535, theta_MC_100:1.041135, ombh2:0.02234211, omch2:0.1203448, tau:0.0555031, A_act:0.9128802, P_act:0.9720931
+[1 : mcmc] Initial point: logA:3.050034, ns:0.9651145, theta_MC_100:1.041086, ombh2:0.02239301, omch2:0.1200154, tau:0.05381915, A_act:0.9793358, P_act:1.088809
+[0 : model] Measuring speeds... (this may take a few seconds)
+[0 : model] Setting measured speeds (per sec): {act_dr6_cmbonly: 248.0, planck_2018_lowl.EE_sroll2: 4920.0, camb.transfers: 0.405, camb: 0.398}
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] * 1 : [['theta_MC_100', 'ombh2', 'omch2', 'tau'], ['logA', 'ns']]
+[0 : mcmc] * 5 : [['A_act', 'P_act']]
+[0 : autoselect_covmat] No cached covmat database present, not usable or not up-to-date. Will be re-created and cached.
+[0 : mcmc] Covariance matrix selected automatically: /users/smp24dhl/cosmo/data/planck_supp_data_and_covmats/covmats/base_plikHM_EE_lowE.covmat
+[0 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns']
+[0 : mcmc] Missing proposal covariance for params ['A_act', 'P_act']
+[0 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (would be 2 if all params loaded).
+[0 : mcmc] *WARNING* The initial points are widely dispersed compared to the proposal covariance, it may take a long time to burn in (max dist to start mean: [14.06708453894856, 3.8265053461589518, 18.325348715501065, 28.565927908290746])
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-04-16 23:08:48 : 1 steps taken, and 0 accepted.
+[3 : mcmc] Progress @ 2025-04-16 23:08:51 : 1 steps taken, and 0 accepted.
+[2 : mcmc] Progress @ 2025-04-16 23:08:51 : 1 steps taken, and 0 accepted.
+[1 : mcmc] Progress @ 2025-04-16 23:08:51 : 1 steps taken, and 0 accepted.
+[0 : mcmc] Progress @ 2025-04-16 23:09:50 : 16 steps taken, and 6 accepted.
+[2 : mcmc] Progress @ 2025-04-16 23:09:52 : 16 steps taken, and 8 accepted.
+[3 : mcmc] Progress @ 2025-04-16 23:09:53 : 17 steps taken, and 7 accepted.
+[1 : mcmc] Progress @ 2025-04-16 23:09:55 : 16 steps taken, and 2 accepted.
