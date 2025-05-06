@@ -18,9 +18,7 @@ os.makedirs(outputs_dir, exist_ok=True)
 samples = getdist.loadMCSamples(chain_root, settings={"ignore_rows": 0.3})
 
 # select parameters to be displayed
-if "lcdm" in chain_base:
-    params = ["H0", "ombh2", "omch2", "ns", "tau", "logA", "sigma8", "omegam"]
-elif "w0wacdm" in chain_base:
+if "w0wacdm" in chain_base:
     params = [
         "H0",
         "ombh2",
@@ -33,6 +31,9 @@ elif "w0wacdm" in chain_base:
         "omegam",
         "sigma8",
     ]
+# if "lcdm" in chain_base:
+else:
+    params = ["H0", "ombh2", "omch2", "ns", "tau", "logA", "sigma8", "omegam"]
 
 # print Gelman-Rubin statistic
 Rminus1 = samples.getGelmanRubin()
