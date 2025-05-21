@@ -1,6 +1,6 @@
 theory: !defaults [../theories/class]
-likelihood: !defaults [../likelihoods/act_lite, ../likelihoods/sroll2]
-params: !defaults [../parameters/cosmo_class, ../parameters/flatt]
+likelihood: !defaults [../likelihoods/act, ../likelihoods/sroll2]
+params: !defaults [../parameters/class_lcdm, ../parameters/class_tflat]
 
 sampler:
   mcmc:

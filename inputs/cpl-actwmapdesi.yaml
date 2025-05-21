@@ -1,5 +1,5 @@
 theory: !defaults [../theories/camb_cpl]
-likelihood: !defaults [../likelihoods/p_act, ../likelihoods/lowEE, ../likelihoods/lensing, ../likelihoods/desi, ../likelihoods/pantheon]
+likelihood: !defaults [../likelihoods/act, ../likelihoods/wmap, ../likelihoods/lensing, ../likelihoods/desi]
 params: !defaults [../parameters/camb_cpl, ../parameters/camb_tsroll2]
 
 prior:
@@ -14,4 +14,4 @@ sampler:
     Rminus1_stop: 0.01
     Rminus1_cl_stop: 0.2
 resume: true
-output: ../chains/w0wacdm-pactlbs
+output: ../chains/cpl-actwmapdesi

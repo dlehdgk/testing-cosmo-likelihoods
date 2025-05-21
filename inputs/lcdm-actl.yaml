@@ -1,6 +1,6 @@
-theory: !defaults [../theories/lcdm_camb]
-likelihood: !defaults [../likelihoods/act_lite, ../likelihoods/lensing]
-params: !defaults [../parameters/lcdmtau_camb]
+theory: !defaults [../theories/camb_lcdm]
+likelihood: !defaults [../likelihoods/act, ../likelihoods/lensing]
+params: !defaults [../parameters/camb_lcdm, ../parameters/camb_tsroll2]
 
 prior:
   cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'

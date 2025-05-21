@@ -172,8 +172,8 @@ params:
     latex: Y_\mathrm{P}
     derived: true
     renames:
-    - yhe
     - yheused
+    - yhe
   z_reio:
     latex: z_\mathrm{re}
     derived: true
@@ -257,7 +257,7 @@ sampler:
         - omega_b
         - omega_cdm
         - tau_reio
-    - - 34
+    - - 36
       - - A_act
         - P_act
     callback_function: null

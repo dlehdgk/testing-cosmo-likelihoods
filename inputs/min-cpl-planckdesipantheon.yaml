@@ -3,12 +3,9 @@ likelihood: !defaults [../likelihoods/planck, ../likelihoods/lowEE, ../likelihoo
 params: !defaults [../parameters/camb_cpl, ../parameters/camb_tflat]
 
 sampler:
-  mcmc:
-    drag: true
-    oversample_power: 0.4
-    proposal_scale: 1.9
-    covmat: auto
-    Rminus1_stop: 0.01
-    Rminus1_cl_stop: 0.2
+  minimize:
+    method: scipy
+    ignore_prior: false
+    best_of: 4
 resume: true
 output: ../chains/w0wacdm-plbs

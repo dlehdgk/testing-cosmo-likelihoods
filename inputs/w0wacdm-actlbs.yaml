@@ -1,6 +1,6 @@
-theory: !defaults [../theories/w0wacdm_camb]
-likelihood: !defaults [../likelihoods/act_lite, ../likelihoods/lensing, ../likelihoods/desi_dr2, ../likelihoods/pantheon]
-params: !defaults [../parameters/w0wacdmtau_camb.yaml]
+theory: !defaults [../theories/camb_cpl]
+likelihood: !defaults [../likelihoods/act, ../likelihoods/lensing, ../likelihoods/desi, ../likelihoods/pantheon]
+params: !defaults [../parameters/camb_cpl, ../parameters/camb_tsroll2]
 
 prior:
   cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'

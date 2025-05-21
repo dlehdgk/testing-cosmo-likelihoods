@@ -1,3 +1,2 @@
-likelihood:
-  wmaplike.WMAPLike:
-    temin: 24
+wmaplike.WMAPLike:
+  temin: 24

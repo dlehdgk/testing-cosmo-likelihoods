@@ -1,5 +1,5 @@
 theory: !defaults [../theories/camb_cpl]
-likelihood: !defaults [../likelihoods/planck, ../likelihoods/lowEE, ../likelihoods/lensing, ../likelihoods/desi, ../likelihoods/pantheon]
+likelihood: !defaults [../likelihoods/planck, ../likelihoods/lowEE, ../likelihoods/lensing, ../likelihoods/desi]
 params: !defaults [../parameters/camb_cpl, ../parameters/camb_tflat]
 
 sampler:
@@ -11,4 +11,4 @@ sampler:
     Rminus1_stop: 0.01
     Rminus1_cl_stop: 0.2
 resume: true
-output: ../chains/w0wacdm-plbs
+output: ../chains/cpl-planckdesi
