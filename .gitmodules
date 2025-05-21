@@ -1,0 +1,3 @@
+[submodule "likelihoods"]
+	path = likelihoods
+	url = git@github.com:dlehdgk/cosmo_likelihoods.git
