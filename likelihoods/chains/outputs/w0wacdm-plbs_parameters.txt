@@ -1,0 +1,13 @@
+R-1 = 0.02876
+
+Marginalized parameters with uncertainties:
+H0 = H_0 = 67.66\pm 0.59
+ombh2 = \Omega_\mathrm{b} h^2 = 0.02245\pm 0.00013
+omch2 = \Omega_\mathrm{c} h^2 = 0.11912\pm 0.00088
+ns = n_\mathrm{s} = 0.9680\pm 0.0037
+tau = \tau_\mathrm{reio} = 0.0562\pm 0.0074
+logA = \log(10^{10} A_\mathrm{s}) = 3.047\pm 0.013
+w = w_{0,\mathrm{DE}} = -0.839\pm 0.054
+wa = w_{a,\mathrm{DE}} = -0.60\pm 0.21
+omegam = \Omega_\mathrm{m} = 0.3108\pm 0.0057
+sigma8 = \sigma_8 = 0.8127\pm 0.0086

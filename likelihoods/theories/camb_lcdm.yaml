@@ -1,0 +1,15 @@
+camb:
+  extra_args:
+    num_massive_neutrinos: 1
+    nnu: 3.046
+    theta_H0_range:
+    - 20
+    - 100
+    kmax: 10
+    k_per_logint: 130
+    nonlinear: true
+    lens_potential_accuracy: 8
+    lens_margin: 2050
+    lAccuracyBoost: 1.2
+    min_l_logl_sampling: 6000
+    DoLateRadTruncation: false

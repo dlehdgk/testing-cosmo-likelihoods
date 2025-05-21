@@ -39,3 +39,16 @@ Loading ACT DR6 lensing likelihood v1.2...
 [0 : mcmc] Progress @ 2025-05-21 17:57:56 : 1 steps taken, and 0 accepted.
 [1 : mcmc] Progress @ 2025-05-21 17:58:19 : 1 steps taken, and 0 accepted.
 [3 : mcmc] Progress @ 2025-05-21 17:58:19 : 1 steps taken, and 0 accepted.
+[2 : mcmc] Progress @ 2025-05-21 17:58:32 : 1 steps taken, and 0 accepted.
+[0 : mcmc] Progress @ 2025-05-21 17:59:14 : 5 steps taken, and 1 accepted.
+[3 : mcmc] Progress @ 2025-05-21 17:59:30 : 5 steps taken, and 1 accepted.
+[1 : mcmc] Progress @ 2025-05-21 17:59:35 : 7 steps taken, and 2 accepted.
+[2 : mcmc] Progress @ 2025-05-21 17:59:37 : 6 steps taken, and 3 accepted.
+[0 : mcmc] Progress @ 2025-05-21 18:00:32 : 10 steps taken, and 1 accepted.
+[1 : mcmc] Progress @ 2025-05-21 18:00:40 : 12 steps taken, and 3 accepted.
+[3 : mcmc] Progress @ 2025-05-21 18:00:41 : 11 steps taken, and 2 accepted.
+[2 : mcmc] Progress @ 2025-05-21 18:00:55 : 12 steps taken, and 4 accepted.
+[0 : mcmc] Progress @ 2025-05-21 18:01:37 : 15 steps taken, and 3 accepted.
+[3 : mcmc] Progress @ 2025-05-21 18:01:51 : 15 steps taken, and 5 accepted.
+[1 : mcmc] Progress @ 2025-05-21 18:01:52 : 16 steps taken, and 5 accepted.
+[2 : mcmc] Progress @ 2025-05-21 18:02:00 : 17 steps taken, and 5 accepted.
