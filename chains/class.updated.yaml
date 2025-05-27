@@ -172,8 +172,8 @@ params:
     latex: Y_\mathrm{P}
     derived: true
     renames:
-    - yheused
     - yhe
+    - yheused
   z_reio:
     latex: z_\mathrm{re}
     derived: true
