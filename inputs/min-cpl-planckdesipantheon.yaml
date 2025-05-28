@@ -8,4 +8,4 @@ sampler:
     ignore_prior: false
     best_of: 4
 resume: true
-output: ../chains/w0wacdm-plbs
+output: ../chains/cpl-planckdesipantheon
