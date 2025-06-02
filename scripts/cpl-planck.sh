@@ -1,5 +1,7 @@
 #!/bin/bash
 #SBATCH --nodes=1
+#SBATCH --account=cosmiccrack
+#SBATCH --reservation=cosmiccrack_6
 #SBATCH --ntasks-per-node=4
 #SBATCH --cpus-per-task=1
 #SBATCH --time=96:00:00
