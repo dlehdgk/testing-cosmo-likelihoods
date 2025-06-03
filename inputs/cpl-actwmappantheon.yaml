@@ -1,5 +1,5 @@
 theory: !defaults [../theories/camb_cpl]
-likelihood: !defaults [../likelihoods/act, ../likelihoods/wmap, ../likelihoods/pantheon]
+likelihood: !defaults [../likelihoods/act, ../likelihoods/wmap, ../likelihoods/lensing, ../likelihoods/pantheon]
 params: !defaults [../parameters/camb_cpl, ../parameters/camb_tsroll2]
 
 prior:

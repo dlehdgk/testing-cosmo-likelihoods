@@ -130,6 +130,31 @@ likelihood:
     input_params:
     - A_sz
     output_params: []
+  act_dr6_lenslike.ACTDR6LensLike:
+    lmax: 4000
+    mock: false
+    nsims_act: 792.0
+    nsims_planck: 400.0
+    no_like_corrections: false
+    no_actlike_cmb_corrections: false
+    lens_only: false
+    trim_lmax: 2998
+    variant: actplanck_baseline
+    apply_hartlap: true
+    limber: false
+    nz: 100
+    kmax: 10
+    zmax: null
+    scale_cov: null
+    varying_cmb_alens: false
+    version: null
+    act_cmb_rescale: false
+    act_calib: false
+    type: []
+    speed: -1
+    stop_at_error: true
+    input_params: []
+    output_params: []
   sn.pantheonplus:
     path: null
     dataset_file: PantheonPlus/config.dataset
@@ -348,7 +373,7 @@ sampler:
     - - 1
       - - logA
         - ns
-    - - 36
+    - - 25
       - - A_act
         - P_act
     callback_function: null
