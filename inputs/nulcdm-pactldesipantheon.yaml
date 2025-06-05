@@ -1,5 +1,5 @@
 theory: !defaults [../theories/camb_nulcdm]
-likelihoods: !defaults [../likelihoods/p_act, ../likelihoods/lensing, ../likelihoods/sroll2, ../likelihoods/desi, ../likelihoods/pantheon]
+likelihood: !defaults [../likelihoods/p_act, ../likelihoods/lensing, ../likelihoods/sroll2, ../likelihoods/desi, ../likelihoods/pantheon]
 params: !defaults [../parameters/camb_nulcdm, ../parameters/camb_tflat]
 
 prior:

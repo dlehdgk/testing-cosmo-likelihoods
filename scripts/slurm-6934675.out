@@ -1,0 +1,87 @@
+[0 : output] Output to be read-from/written-into folder '../chains', with prefix 'nulcdm-pactl'
+[0 : prior] *WARNING* External prior 'cal_dip_prior' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB/camb
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : mcmc] Getting initial point... (this may take a few seconds)
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : mcmc] Getting initial point... (this may take a few seconds)
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : mcmc] Getting initial point... (this may take a few seconds)
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : mcmc] Getting initial point... (this may take a few seconds)
+[1 : mcmc] Initial point: logA:3.048799, ns:0.9642025, theta_MC_100:1.041026, ombh2:0.02234274, omch2:0.1183437, mnu:0.008797945, nnu:3.041244, tau:0.05229257, A_act:0.9814825, P_act:1.059269
+[0 : mcmc] Initial point: logA:3.051378, ns:0.9594416, theta_MC_100:1.040551, ombh2:0.02244921, omch2:0.1200745, mnu:0.01014206, nnu:3.040734, tau:0.0454805, A_act:1.063755, P_act:0.9990867
+[3 : mcmc] Initial point: logA:3.049262, ns:0.966506, theta_MC_100:1.041034, ombh2:0.02250266, omch2:0.1192068, mnu:0.04243506, nnu:3.041412, tau:0.05553099, A_act:0.8201379, P_act:1.073158
+[2 : mcmc] Initial point: logA:3.049854, ns:0.9645989, theta_MC_100:1.040961, ombh2:0.02242185, omch2:0.1170449, mnu:0.01954811, nnu:3.040375, tau:0.05074428, A_act:1.058286, P_act:0.9164537
+[0 : model] Measuring speeds... (this may take a few seconds)
+[0 : model] Setting measured speeds (per sec): {planck_2018_lowl.TT: 1430.0, act_dr6_cmbonly.PlanckActCut: 639.0, act_dr6_cmbonly: 275.0, act_dr6_lenslike.ACTDR6LensLike: 16.9, planck_2018_lowl.EE_sroll2: 3690.0, camb.transfers: 0.214, camb: 0.235}
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] * 1 : [['theta_MC_100', 'ombh2', 'omch2', 'mnu', 'nnu', 'tau'], ['logA', 'ns']]
+[0 : mcmc] * 4 : [['A_act'], ['P_act']]
+[0 : autoselect_covmat] No cached covmat database present, not usable or not up-to-date. Will be re-created and cached.
+[0 : autoselect_covmat] *WARNING* WARNING: using first of >1 possible best covmats: ['base_nnu_mnu_plikHM_TTTEEE_lowl_lowE_BAO_post_Pantheon18.covmat', 'base_nnu_mnu_plikHM_TTTEEE_lowl_lowE_BAO_post_Aver15.covmat']
+[0 : mcmc] Covariance matrix selected automatically: /users/smp24dhl/cosmo/data/planck_supp_data_and_covmats/covmats/base_nnu_mnu_plikHM_TTTEEE_lowl_lowE_BAO_post_Pantheon18.covmat
+[0 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'mnu', 'nnu', 'logA', 'ns']
+[0 : mcmc] Missing proposal covariance for params ['A_act', 'P_act']
+[0 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (would be 2 if all params loaded).
+[0 : mcmc] *WARNING* The initial points are widely dispersed compared to the proposal covariance, it may take a long time to burn in (max dist to start mean: [27.613265958390976, 1.5759067069351782, 25.79012984351081, 53.592469493839445])
+[0 : mcmc] Sampling!
+[2 : mcmc] Progress @ 2025-06-05 13:23:04 : 1 steps taken, and 0 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:23:17 : 1 steps taken, and 0 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:23:19 : 1 steps taken, and 0 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:23:21 : 1 steps taken, and 0 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:24:04 : 9 steps taken, and 2 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:24:23 : 10 steps taken, and 1 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:24:25 : 18 steps taken, and 1 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:24:29 : 17 steps taken, and 5 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:25:08 : 18 steps taken, and 3 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:25:27 : 30 steps taken, and 3 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:25:29 : 25 steps taken, and 12 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:25:31 : 23 steps taken, and 9 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:26:11 : 28 steps taken, and 5 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:26:29 : 33 steps taken, and 14 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:26:31 : 32 steps taken, and 13 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:26:31 : 45 steps taken, and 6 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:27:11 : 35 steps taken, and 7 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:27:36 : 42 steps taken, and 17 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:27:37 : 41 steps taken, and 17 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:27:38 : 55 steps taken, and 10 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:28:14 : 44 steps taken, and 12 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:28:39 : 51 steps taken, and 20 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:28:40 : 50 steps taken, and 20 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:28:46 : 64 steps taken, and 13 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:29:22 : 53 steps taken, and 13 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:29:46 : 60 steps taken, and 23 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:29:47 : 59 steps taken, and 22 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:29:53 : 74 steps taken, and 14 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:30:24 : 62 steps taken, and 20 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:30:49 : 68 steps taken, and 26 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:30:54 : 69 steps taken, and 24 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:30:56 : 83 steps taken, and 18 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:31:28 : 70 steps taken, and 22 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:31:49 : 75 steps taken, and 28 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:31:55 : 78 steps taken, and 28 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:32:02 : 94 steps taken, and 21 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:32:29 : 79 steps taken, and 23 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:32:57 : 84 steps taken, and 32 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:33:02 : 86 steps taken, and 29 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:33:06 : 106 steps taken, and 24 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:33:37 : 88 steps taken, and 26 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:34:01 : 93 steps taken, and 38 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:34:03 : 95 steps taken, and 33 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:34:10 : 116 steps taken, and 28 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:34:43 : 97 steps taken, and 31 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:35:03 : 104 steps taken, and 36 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:35:04 : 102 steps taken, and 41 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:35:17 : 125 steps taken, and 32 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:35:51 : 106 steps taken, and 32 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:36:04 : 110 steps taken, and 47 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:36:08 : 113 steps taken, and 38 accepted.

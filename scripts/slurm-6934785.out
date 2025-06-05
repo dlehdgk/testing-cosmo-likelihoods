@@ -1,0 +1,49 @@
+[0 : output] Output to be read-from/written-into folder '../chains', with prefix 'nulcdm-pactldesipantheon'
+[0 : prior] *WARNING* External prior 'cal_dip_prior' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB/camb
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.desi_dr2] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.desi_dr2] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.desi_dr2] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.desi_dr2] Initialized.
+[2 : mcmc] Getting initial point... (this may take a few seconds)
+[3 : mcmc] Getting initial point... (this may take a few seconds)
+[0 : mcmc] Getting initial point... (this may take a few seconds)
+[1 : mcmc] Getting initial point... (this may take a few seconds)
+[1 : mcmc] Initial point: logA:3.048401, ns:0.9687976, theta_MC_100:1.041225, ombh2:0.02247935, omch2:0.1193488, mnu:0.1590649, nnu:3.041341, tau:0.04989994, A_act:1.013117, P_act:0.9283282
+[2 : mcmc] Initial point: logA:3.049382, ns:0.9659631, theta_MC_100:1.041084, ombh2:0.02229372, omch2:0.1178565, mnu:0.02784232, nnu:3.04063, tau:0.05448225, A_act:0.9030067, P_act:1.009209
+[0 : mcmc] Initial point: logA:3.050048, ns:0.9604357, theta_MC_100:1.040868, ombh2:0.02228227, omch2:0.1197995, mnu:0.234374, nnu:3.038258, tau:0.05260776, A_act:1.007415, P_act:0.9126332
+[3 : mcmc] Initial point: logA:3.050452, ns:0.9616944, theta_MC_100:1.041484, ombh2:0.02254072, omch2:0.1193379, mnu:0.04363862, nnu:3.042026, tau:0.0598926, A_act:0.8353425, P_act:1.040921
+[0 : model] Measuring speeds... (this may take a few seconds)
+[0 : model] Setting measured speeds (per sec): {planck_2018_lowl.TT: 1040.0, act_dr6_cmbonly.PlanckActCut: 502.0, act_dr6_cmbonly: 170.0, act_dr6_lenslike.ACTDR6LensLike: 8.0, planck_2018_lowl.EE_sroll2: 1960.0, bao.desi_dr2: 880.0, sn.pantheonplus: 365.0, camb.transfers: 0.203, camb: 0.137}
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] * 1 : [['theta_MC_100', 'ombh2', 'omch2', 'mnu', 'nnu', 'tau'], ['logA', 'ns']]
+[0 : mcmc] * 4 : [['A_act'], ['P_act']]
+[0 : autoselect_covmat] No cached covmat database present, not usable or not up-to-date. Will be re-created and cached.
+[0 : autoselect_covmat] *WARNING* WARNING: using first of >1 possible best covmats: ['base_nnu_mnu_plikHM_TTTEEE_lowl_lowE_BAO_post_Pantheon18.covmat', 'base_nnu_mnu_plikHM_TTTEEE_lowl_lowE_BAO_post_Aver15.covmat']
+[0 : mcmc] Covariance matrix selected automatically: /users/smp24dhl/cosmo/data/planck_supp_data_and_covmats/covmats/base_nnu_mnu_plikHM_TTTEEE_lowl_lowE_BAO_post_Pantheon18.covmat
+[0 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'mnu', 'nnu', 'logA', 'ns']
+[0 : mcmc] Missing proposal covariance for params ['A_act', 'P_act']
+[0 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (would be 2 if all params loaded).
+[0 : mcmc] *WARNING* The initial points are widely dispersed compared to the proposal covariance, it may take a long time to burn in (max dist to start mean: [22.564971307928708, 24.465431960497035, 12.237821277888454, 34.792581990537286])
+[0 : mcmc] Sampling!
+[1 : mcmc] Progress @ 2025-06-05 13:34:02 : 1 steps taken, and 0 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:34:03 : 1 steps taken, and 0 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:34:03 : 1 steps taken, and 0 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:34:03 : 1 steps taken, and 0 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:35:07 : 10 steps taken, and 1 accepted.
+[1 : mcmc] Progress @ 2025-06-05 13:35:10 : 8 steps taken, and 1 accepted.
+[2 : mcmc] Progress @ 2025-06-05 13:35:10 : 8 steps taken, and 3 accepted.
+[0 : mcmc] Progress @ 2025-06-05 13:35:14 : 8 steps taken, and 2 accepted.
+[3 : mcmc] Progress @ 2025-06-05 13:36:07 : 20 steps taken, and 3 accepted.

@@ -21415,3 +21415,2003 @@ Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_
 [1 : mcmc] Progress @ 2025-06-05 02:53:16 : 27604 steps taken, and 17715 accepted.
 [0 : mcmc] Progress @ 2025-06-05 02:53:34 : 27733 steps taken, and 17832 accepted.
 [2 : mcmc] Progress @ 2025-06-05 02:53:43 : 27374 steps taken, and 17758 accepted.
+[3 : mcmc] Progress @ 2025-06-05 02:54:14 : 27303 steps taken, and 17513 accepted.
+[1 : mcmc] Progress @ 2025-06-05 02:54:16 : 27608 steps taken, and 17716 accepted.
+[0 : mcmc] Progress @ 2025-06-05 02:54:41 : 27738 steps taken, and 17834 accepted.
+[2 : mcmc] Progress @ 2025-06-05 02:54:59 : 27387 steps taken, and 17763 accepted.
+[3 : mcmc] Progress @ 2025-06-05 02:55:14 : 27307 steps taken, and 17514 accepted.
+[1 : mcmc] Progress @ 2025-06-05 02:55:16 : 27613 steps taken, and 17717 accepted.
+[0 : mcmc] Progress @ 2025-06-05 02:55:54 : 27743 steps taken, and 17836 accepted.
+[2 : mcmc] Progress @ 2025-06-05 02:56:04 : 27394 steps taken, and 17763 accepted.
+[3 : mcmc] Progress @ 2025-06-05 02:56:20 : 27313 steps taken, and 17516 accepted.
+[1 : mcmc] Progress @ 2025-06-05 02:56:22 : 27619 steps taken, and 17719 accepted.
+[0 : mcmc] Progress @ 2025-06-05 02:56:59 : 27750 steps taken, and 17837 accepted.
+[2 : mcmc] Progress @ 2025-06-05 02:57:04 : 27398 steps taken, and 17765 accepted.
+[3 : mcmc] Progress @ 2025-06-05 02:57:20 : 27317 steps taken, and 17517 accepted.
+[1 : mcmc] Progress @ 2025-06-05 02:57:40 : 27624 steps taken, and 17721 accepted.
+[0 : mcmc] Progress @ 2025-06-05 02:58:16 : 27757 steps taken, and 17839 accepted.
+[2 : mcmc] Progress @ 2025-06-05 02:58:17 : 27402 steps taken, and 17765 accepted.
+[3 : mcmc] Progress @ 2025-06-05 02:58:21 : 27321 steps taken, and 17518 accepted.
+[1 : mcmc] Progress @ 2025-06-05 02:58:45 : 27630 steps taken, and 17723 accepted.
+[3 : mcmc] Progress @ 2025-06-05 02:59:21 : 27325 steps taken, and 17519 accepted.
+[2 : mcmc] Progress @ 2025-06-05 02:59:22 : 27408 steps taken, and 17768 accepted.
+[0 : mcmc] Progress @ 2025-06-05 02:59:27 : 27767 steps taken, and 17842 accepted.
+[1 : mcmc] Progress @ 2025-06-05 02:59:49 : 27635 steps taken, and 17725 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:00:22 : 27329 steps taken, and 17522 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:00:27 : 27420 steps taken, and 17772 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:00:44 : 27776 steps taken, and 17844 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:01:00 : 27639 steps taken, and 17727 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:01:27 : 27337 steps taken, and 17524 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:01:38 : 27426 steps taken, and 17775 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:02:01 : 27785 steps taken, and 17846 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:02:11 : 27646 steps taken, and 17730 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:02:27 : 27343 steps taken, and 17525 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:02:43 : 27432 steps taken, and 17777 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:03:07 : 27794 steps taken, and 17848 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:03:22 : 27653 steps taken, and 17731 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:03:45 : 27351 steps taken, and 17528 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:03:47 : 27438 steps taken, and 17779 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:04:22 : 27660 steps taken, and 17734 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:04:23 : 27807 steps taken, and 17851 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:04:50 : 27356 steps taken, and 17531 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:04:53 : 27453 steps taken, and 17782 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:05:27 : 27669 steps taken, and 17736 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:05:41 : 27813 steps taken, and 17854 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:05:58 : 27464 steps taken, and 17785 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:06:01 : 27361 steps taken, and 17534 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:06:33 : 27678 steps taken, and 17739 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:06:41 : 27819 steps taken, and 17857 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:07:03 : 27473 steps taken, and 17787 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:07:07 : 27369 steps taken, and 17535 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:07:45 : 27683 steps taken, and 17742 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:07:59 : 27825 steps taken, and 17859 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:08:12 : 27374 steps taken, and 17537 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:08:20 : 27480 steps taken, and 17790 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:08:56 : 27694 steps taken, and 17744 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:09:04 : 27834 steps taken, and 17862 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:09:25 : 27379 steps taken, and 17538 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:09:25 : 27488 steps taken, and 17795 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:10:09 : 27698 steps taken, and 17748 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:10:09 : 27840 steps taken, and 17863 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:10:29 : 27495 steps taken, and 17798 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:10:30 : 27384 steps taken, and 17539 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:11:09 : 27705 steps taken, and 17751 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:11:15 : 27845 steps taken, and 17865 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:11:47 : 27390 steps taken, and 17540 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:11:47 : 27501 steps taken, and 17799 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:12:14 : 27711 steps taken, and 17754 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:12:27 : 27853 steps taken, and 17867 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:12:48 : 27506 steps taken, and 17801 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:12:58 : 27397 steps taken, and 17544 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:13:26 : 27717 steps taken, and 17755 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:13:32 : 27858 steps taken, and 17871 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:14:05 : 27513 steps taken, and 17805 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:14:15 : 27405 steps taken, and 17545 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:14:43 : 27724 steps taken, and 17758 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:14:49 : 27864 steps taken, and 17872 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:15:18 : 27518 steps taken, and 17806 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:15:32 : 27410 steps taken, and 17547 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:15:49 : 27729 steps taken, and 17761 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:15:54 : 27874 steps taken, and 17875 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:16:23 : 27525 steps taken, and 17810 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:16:37 : 27416 steps taken, and 17549 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:16:49 : 27734 steps taken, and 17762 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:17:12 : 27879 steps taken, and 17876 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:17:41 : 27531 steps taken, and 17811 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:17:50 : 27421 steps taken, and 17551 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:18:01 : 27742 steps taken, and 17764 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:18:22 : 27888 steps taken, and 17880 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:18:45 : 27536 steps taken, and 17811 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:19:01 : 27428 steps taken, and 17553 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:19:07 : 27754 steps taken, and 17764 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:19:27 : 27895 steps taken, and 17881 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:19:51 : 27543 steps taken, and 17814 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:20:05 : 27434 steps taken, and 17555 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:20:07 : 27759 steps taken, and 17766 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:20:43 : 27901 steps taken, and 17885 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:21:06 : 27439 steps taken, and 17557 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:21:09 : 27549 steps taken, and 17817 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:21:12 : 27764 steps taken, and 17768 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:21:52 : 27920 steps taken, and 17886 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:22:06 : 27445 steps taken, and 17560 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:22:12 : 27768 steps taken, and 17769 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:22:27 : 27554 steps taken, and 17820 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:22:56 : 27926 steps taken, and 17887 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:23:12 : 27452 steps taken, and 17561 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:23:18 : 27773 steps taken, and 17771 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:23:45 : 27561 steps taken, and 17821 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:24:08 : 27931 steps taken, and 17890 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:24:24 : 27458 steps taken, and 17562 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:24:30 : 27779 steps taken, and 17772 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:24:49 : 27566 steps taken, and 17824 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:25:13 : 27940 steps taken, and 17893 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:25:30 : 27783 steps taken, and 17773 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:25:41 : 27465 steps taken, and 17565 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:26:02 : 27571 steps taken, and 17828 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:26:29 : 27953 steps taken, and 17895 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:26:30 : 27787 steps taken, and 17775 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:26:54 : 27472 steps taken, and 17567 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:27:07 : 27578 steps taken, and 17832 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:27:30 : 27791 steps taken, and 17776 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:27:34 : 27963 steps taken, and 17898 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:28:06 : 27476 steps taken, and 17567 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:28:12 : 27583 steps taken, and 17836 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:28:48 : 27796 steps taken, and 17777 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:28:52 : 27969 steps taken, and 17900 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:29:12 : 27482 steps taken, and 17567 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:29:30 : 27591 steps taken, and 17839 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:29:52 : 27975 steps taken, and 17903 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:30:06 : 27801 steps taken, and 17780 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:30:17 : 27488 steps taken, and 17568 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:30:40 : 27599 steps taken, and 17840 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:31:10 : 27982 steps taken, and 17904 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:31:11 : 27808 steps taken, and 17783 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:31:17 : 27492 steps taken, and 17570 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:31:45 : 27606 steps taken, and 17841 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:32:15 : 27988 steps taken, and 17907 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:32:28 : 27816 steps taken, and 17787 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:32:35 : 27504 steps taken, and 17573 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:32:50 : 27612 steps taken, and 17844 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:33:20 : 27993 steps taken, and 17911 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:33:34 : 27821 steps taken, and 17789 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:33:41 : 27510 steps taken, and 17576 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:34:03 : 27617 steps taken, and 17846 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:34:25 : 27999 steps taken, and 17914 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:34:41 : 27514 steps taken, and 17578 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:34:47 : 27825 steps taken, and 17790 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:35:07 : 27625 steps taken, and 17848 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:35:25 : 28004 steps taken, and 17916 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:35:41 : 27519 steps taken, and 17581 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:36:04 : 27830 steps taken, and 17792 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:36:20 : 27634 steps taken, and 17851 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:36:41 : 27523 steps taken, and 17585 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:36:43 : 28010 steps taken, and 17919 accepted.
+[0 : mcmc] Learn + convergence test @ 17920 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Progress @ 2025-06-05 03:37:21 : 27837 steps taken, and 17792 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:37:25 : 27640 steps taken, and 17853 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:37:41 : 27527 steps taken, and 17586 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:37:48 : 28016 steps taken, and 17921 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:38:25 : 27645 steps taken, and 17857 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:38:39 : 27843 steps taken, and 17795 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:38:53 : 27531 steps taken, and 17588 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:39:06 : 28023 steps taken, and 17924 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:39:42 : 27650 steps taken, and 17858 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:39:44 : 27848 steps taken, and 17798 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:39:58 : 27536 steps taken, and 17591 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:40:06 : 28031 steps taken, and 17924 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:40:58 : 27540 steps taken, and 17594 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:40:58 : 27659 steps taken, and 17861 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:41:01 : 27855 steps taken, and 17800 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:41:18 : 28035 steps taken, and 17926 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:42:03 : 27670 steps taken, and 17863 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:42:04 : 27546 steps taken, and 17598 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:42:20 : 27861 steps taken, and 17801 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:42:23 : 28041 steps taken, and 17928 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:43:04 : 27560 steps taken, and 17600 accepted.
+[3 : mcmc] Learn + convergence test @ 17600 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Progress @ 2025-06-05 03:43:06 : 27681 steps taken, and 17863 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:43:20 : 27867 steps taken, and 17804 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:43:28 : 28048 steps taken, and 17931 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:44:14 : 27571 steps taken, and 17604 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:44:20 : 27871 steps taken, and 17807 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:44:24 : 27693 steps taken, and 17865 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:44:32 : 28054 steps taken, and 17934 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:45:20 : 27876 steps taken, and 17809 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:45:32 : 27582 steps taken, and 17608 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:45:41 : 27699 steps taken, and 17869 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:45:45 : 28060 steps taken, and 17937 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:46:31 : 27885 steps taken, and 17811 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:46:32 : 27588 steps taken, and 17610 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:46:46 : 27704 steps taken, and 17869 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:46:49 : 28065 steps taken, and 17940 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:47:44 : 27889 steps taken, and 17813 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:47:49 : 27596 steps taken, and 17612 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:48:04 : 27711 steps taken, and 17871 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:48:07 : 28072 steps taken, and 17943 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:48:45 : 27894 steps taken, and 17815 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:48:55 : 27603 steps taken, and 17613 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:49:16 : 27716 steps taken, and 17872 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:49:19 : 28077 steps taken, and 17945 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:49:45 : 27898 steps taken, and 17817 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:49:55 : 27607 steps taken, and 17614 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:50:24 : 28082 steps taken, and 17945 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:50:26 : 27722 steps taken, and 17875 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:50:45 : 27902 steps taken, and 17818 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:51:05 : 27615 steps taken, and 17618 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:51:37 : 28087 steps taken, and 17946 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:51:43 : 27727 steps taken, and 17877 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:52:03 : 27908 steps taken, and 17820 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:52:10 : 27621 steps taken, and 17621 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:52:42 : 28093 steps taken, and 17947 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:52:43 : 27732 steps taken, and 17878 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:53:08 : 27914 steps taken, and 17824 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:53:23 : 27625 steps taken, and 17623 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:53:43 : 27737 steps taken, and 17881 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:54:00 : 28098 steps taken, and 17947 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:54:14 : 27920 steps taken, and 17825 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:54:30 : 27632 steps taken, and 17624 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:54:56 : 27744 steps taken, and 17883 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:55:00 : 28102 steps taken, and 17950 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:55:30 : 27638 steps taken, and 17627 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:55:31 : 27927 steps taken, and 17828 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:56:13 : 27750 steps taken, and 17886 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:56:18 : 28107 steps taken, and 17954 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:56:31 : 27934 steps taken, and 17830 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:56:36 : 27645 steps taken, and 17631 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:57:19 : 27755 steps taken, and 17887 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:57:28 : 28114 steps taken, and 17958 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:57:36 : 27651 steps taken, and 17633 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:57:44 : 27938 steps taken, and 17832 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:58:19 : 27760 steps taken, and 17889 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:58:41 : 28118 steps taken, and 17962 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:58:44 : 27942 steps taken, and 17833 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:58:47 : 27661 steps taken, and 17635 accepted.
+[2 : mcmc] Progress @ 2025-06-05 03:59:24 : 27765 steps taken, and 17890 accepted.
+[3 : mcmc] Progress @ 2025-06-05 03:59:47 : 27668 steps taken, and 17636 accepted.
+[0 : mcmc] Progress @ 2025-06-05 03:59:52 : 28126 steps taken, and 17963 accepted.
+[1 : mcmc] Progress @ 2025-06-05 03:59:56 : 27950 steps taken, and 17834 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:00:25 : 27770 steps taken, and 17890 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:00:58 : 27677 steps taken, and 17639 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:01:04 : 28131 steps taken, and 17964 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:01:09 : 27955 steps taken, and 17836 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:01:25 : 27776 steps taken, and 17892 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:02:10 : 27684 steps taken, and 17641 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:02:15 : 28142 steps taken, and 17968 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:02:26 : 27962 steps taken, and 17839 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:02:30 : 27781 steps taken, and 17894 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:03:19 : 28149 steps taken, and 17970 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:03:26 : 27692 steps taken, and 17646 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:03:32 : 27970 steps taken, and 17840 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:03:43 : 27785 steps taken, and 17897 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:04:23 : 28154 steps taken, and 17972 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:04:38 : 27698 steps taken, and 17648 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:04:50 : 27977 steps taken, and 17842 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:05:01 : 27792 steps taken, and 17899 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:05:24 : 28161 steps taken, and 17975 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:05:38 : 27702 steps taken, and 17649 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:05:56 : 27986 steps taken, and 17843 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:06:01 : 27799 steps taken, and 17901 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:06:28 : 28173 steps taken, and 17978 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:06:43 : 27709 steps taken, and 17651 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:07:01 : 27991 steps taken, and 17845 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:07:07 : 27805 steps taken, and 17901 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:07:46 : 28178 steps taken, and 17980 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:08:01 : 27720 steps taken, and 17653 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:08:06 : 28000 steps taken, and 17848 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:08:19 : 27809 steps taken, and 17903 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:09:04 : 28185 steps taken, and 17980 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:09:11 : 28005 steps taken, and 17850 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:09:18 : 27735 steps taken, and 17656 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:09:38 : 27815 steps taken, and 17907 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:10:15 : 28196 steps taken, and 17981 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:10:17 : 28014 steps taken, and 17852 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:10:35 : 27755 steps taken, and 17658 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:10:43 : 27820 steps taken, and 17910 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:11:19 : 28205 steps taken, and 17985 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:11:29 : 28018 steps taken, and 17854 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:11:47 : 27763 steps taken, and 17660 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:12:01 : 27826 steps taken, and 17913 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:12:29 : 28216 steps taken, and 17990 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:12:41 : 28022 steps taken, and 17857 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:12:48 : 27768 steps taken, and 17662 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:13:06 : 27832 steps taken, and 17917 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:13:34 : 28223 steps taken, and 17992 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:13:46 : 28039 steps taken, and 17858 accepted.
+[2 : mcmc] Learn + convergence test @ 17920 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2025-06-05 04:13:48 : 27773 steps taken, and 17663 accepted.
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.321 = avg([0.3203, 0.3196, 0.3204, 0.3222])
+[0 : mcmc]  - Convergence of means: R-1 = 0.010666 after 71436 accepted steps = sum([17993, 17859, 17920, 17664])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[2 : mcmc] Progress @ 2025-06-05 04:14:08 : 27840 steps taken, and 17920 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:14:44 : 28234 steps taken, and 17994 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:14:57 : 27778 steps taken, and 17666 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:15:01 : 28051 steps taken, and 17861 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:15:21 : 27845 steps taken, and 17923 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:15:55 : 28239 steps taken, and 17997 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:16:01 : 27798 steps taken, and 17669 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:16:15 : 28075 steps taken, and 17864 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:16:25 : 27851 steps taken, and 17926 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:17:05 : 28246 steps taken, and 18002 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:17:16 : 27814 steps taken, and 17672 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:17:20 : 28085 steps taken, and 17865 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:17:43 : 27858 steps taken, and 17926 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:18:08 : 28257 steps taken, and 18006 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:18:21 : 27824 steps taken, and 17674 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:18:25 : 28093 steps taken, and 17867 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:18:47 : 27864 steps taken, and 17927 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:19:21 : 28261 steps taken, and 18009 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:19:27 : 27830 steps taken, and 17676 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:19:30 : 28103 steps taken, and 17870 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:19:52 : 27872 steps taken, and 17930 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:20:26 : 28268 steps taken, and 18014 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:20:35 : 28117 steps taken, and 17874 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:20:39 : 27835 steps taken, and 17678 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:21:09 : 27879 steps taken, and 17931 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:21:32 : 28273 steps taken, and 18017 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:21:40 : 28125 steps taken, and 17878 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:21:44 : 27840 steps taken, and 17682 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:22:12 : 27886 steps taken, and 17934 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:22:32 : 28279 steps taken, and 18020 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:22:44 : 28131 steps taken, and 17880 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:23:02 : 27847 steps taken, and 17685 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:23:30 : 27892 steps taken, and 17936 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:23:38 : 28285 steps taken, and 18021 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:24:02 : 27852 steps taken, and 17689 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:24:03 : 28140 steps taken, and 17882 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[2 : mcmc] Progress @ 2025-06-05 04:24:40 : 27904 steps taken, and 17938 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:24:55 : 28291 steps taken, and 18023 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:25:03 : 28146 steps taken, and 17883 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:25:08 : 27857 steps taken, and 17692 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:25:45 : 27912 steps taken, and 17940 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:26:09 : 28153 steps taken, and 17885 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:26:09 : 27861 steps taken, and 17694 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:26:13 : 28296 steps taken, and 18026 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:26:51 : 27917 steps taken, and 17942 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:27:09 : 28159 steps taken, and 17887 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:27:18 : 28302 steps taken, and 18028 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:27:20 : 27866 steps taken, and 17698 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:27:51 : 27923 steps taken, and 17944 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:28:09 : 28167 steps taken, and 17889 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:28:21 : 27871 steps taken, and 17698 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:28:36 : 28309 steps taken, and 18031 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:28:51 : 27927 steps taken, and 17945 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:29:09 : 28172 steps taken, and 17890 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:29:31 : 27879 steps taken, and 17701 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:29:54 : 28314 steps taken, and 18033 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:30:04 : 27933 steps taken, and 17946 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:30:14 : 28178 steps taken, and 17894 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:30:32 : 27883 steps taken, and 17704 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:30:54 : 28320 steps taken, and 18035 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:31:04 : 27937 steps taken, and 17947 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:31:18 : 28185 steps taken, and 17896 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:31:32 : 27887 steps taken, and 17704 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:32:06 : 28325 steps taken, and 18037 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:32:10 : 27942 steps taken, and 17947 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:32:23 : 28192 steps taken, and 17897 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:32:37 : 27892 steps taken, and 17707 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:33:12 : 28331 steps taken, and 18039 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:33:23 : 27946 steps taken, and 17949 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:33:29 : 28198 steps taken, and 17898 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:33:49 : 27901 steps taken, and 17710 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:34:12 : 28335 steps taken, and 18042 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:34:29 : 27952 steps taken, and 17950 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:34:29 : 28206 steps taken, and 17901 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:35:06 : 27918 steps taken, and 17713 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:35:18 : 28340 steps taken, and 18044 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:35:35 : 28213 steps taken, and 17902 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:35:42 : 27956 steps taken, and 17953 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:36:16 : 27928 steps taken, and 17715 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:36:36 : 28347 steps taken, and 18045 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:36:40 : 28222 steps taken, and 17904 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:36:47 : 27962 steps taken, and 17955 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:37:27 : 27943 steps taken, and 17715 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:37:41 : 28354 steps taken, and 18046 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:37:52 : 27968 steps taken, and 17958 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:37:52 : 28229 steps taken, and 17904 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:38:37 : 27953 steps taken, and 17717 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:38:58 : 28359 steps taken, and 18049 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:39:08 : 28239 steps taken, and 17906 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:39:10 : 27974 steps taken, and 17960 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:39:43 : 27960 steps taken, and 17719 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:40:04 : 28365 steps taken, and 18051 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:40:09 : 28245 steps taken, and 17909 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:40:16 : 27981 steps taken, and 17962 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:40:49 : 27967 steps taken, and 17721 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:41:09 : 28249 steps taken, and 17911 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:41:09 : 28373 steps taken, and 18052 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:41:21 : 27987 steps taken, and 17965 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:42:02 : 27972 steps taken, and 17722 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:42:09 : 28254 steps taken, and 17912 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:42:21 : 27993 steps taken, and 17967 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:42:21 : 28377 steps taken, and 18053 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:43:02 : 27976 steps taken, and 17723 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:43:21 : 28261 steps taken, and 17915 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:43:37 : 28009 steps taken, and 17969 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:43:39 : 28384 steps taken, and 18053 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:44:02 : 27980 steps taken, and 17723 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:44:39 : 28268 steps taken, and 17917 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:44:42 : 28017 steps taken, and 17974 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:44:43 : 28394 steps taken, and 18055 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:45:02 : 27984 steps taken, and 17726 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:45:39 : 28272 steps taken, and 17920 accepted.
+[1 : mcmc] Learn + convergence test @ 17920 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Progress @ 2025-06-05 04:45:42 : 28021 steps taken, and 17977 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:46:01 : 28400 steps taken, and 18058 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:46:07 : 27989 steps taken, and 17728 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:46:44 : 28277 steps taken, and 17921 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:46:53 : 28029 steps taken, and 17980 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:47:08 : 27995 steps taken, and 17731 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:47:13 : 28405 steps taken, and 18059 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:47:53 : 28035 steps taken, and 17981 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:47:56 : 28282 steps taken, and 17922 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:48:13 : 28001 steps taken, and 17733 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:48:17 : 28412 steps taken, and 18061 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:49:10 : 28040 steps taken, and 17983 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:49:14 : 28287 steps taken, and 17925 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:49:25 : 28006 steps taken, and 17735 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:49:35 : 28419 steps taken, and 18064 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:50:11 : 28044 steps taken, and 17986 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:50:19 : 28295 steps taken, and 17926 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:50:38 : 28011 steps taken, and 17738 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:50:40 : 28425 steps taken, and 18066 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:51:16 : 28051 steps taken, and 17988 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:51:22 : 28309 steps taken, and 17928 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:51:40 : 28432 steps taken, and 18069 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:51:43 : 28016 steps taken, and 17742 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:52:16 : 28055 steps taken, and 17989 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:52:34 : 28315 steps taken, and 17929 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:52:44 : 28442 steps taken, and 18071 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:53:01 : 28022 steps taken, and 17742 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:53:29 : 28060 steps taken, and 17991 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:53:39 : 28322 steps taken, and 17930 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:53:56 : 28449 steps taken, and 18075 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:54:12 : 28027 steps taken, and 17745 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:54:34 : 28066 steps taken, and 17993 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:54:52 : 28327 steps taken, and 17931 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:55:01 : 28459 steps taken, and 18079 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:55:16 : 28034 steps taken, and 17745 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:55:38 : 28072 steps taken, and 17995 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:56:03 : 28339 steps taken, and 17933 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:56:06 : 28473 steps taken, and 18082 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:56:35 : 28040 steps taken, and 17748 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:56:44 : 28080 steps taken, and 17997 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:57:09 : 28344 steps taken, and 17936 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:57:12 : 28480 steps taken, and 18085 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:57:47 : 28047 steps taken, and 17749 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:57:56 : 28085 steps taken, and 17999 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:58:23 : 28490 steps taken, and 18089 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:58:26 : 28350 steps taken, and 17938 accepted.
+[3 : mcmc] Progress @ 2025-06-05 04:58:52 : 28054 steps taken, and 17751 accepted.
+[2 : mcmc] Progress @ 2025-06-05 04:59:01 : 28093 steps taken, and 18001 accepted.
+[1 : mcmc] Progress @ 2025-06-05 04:59:32 : 28356 steps taken, and 17941 accepted.
+[0 : mcmc] Progress @ 2025-06-05 04:59:40 : 28498 steps taken, and 18092 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:00:05 : 28058 steps taken, and 17753 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:00:06 : 28100 steps taken, and 18001 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:00:36 : 28363 steps taken, and 17943 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:00:45 : 28504 steps taken, and 18094 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:01:06 : 28104 steps taken, and 18003 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:01:11 : 28064 steps taken, and 17755 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:01:46 : 28508 steps taken, and 18095 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:01:54 : 28370 steps taken, and 17944 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:02:11 : 28112 steps taken, and 18006 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:02:16 : 28070 steps taken, and 17756 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:02:54 : 28375 steps taken, and 17947 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:03:04 : 28515 steps taken, and 18097 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:03:16 : 28117 steps taken, and 18007 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:03:29 : 28074 steps taken, and 17758 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:03:59 : 28382 steps taken, and 17949 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:04:09 : 28520 steps taken, and 18100 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:04:16 : 28121 steps taken, and 18008 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:04:29 : 28078 steps taken, and 17762 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:05:16 : 28127 steps taken, and 18010 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:05:17 : 28388 steps taken, and 17952 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:05:26 : 28527 steps taken, and 18103 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:05:35 : 28083 steps taken, and 17765 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:06:17 : 28131 steps taken, and 18012 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:06:23 : 28395 steps taken, and 17954 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:06:35 : 28087 steps taken, and 17765 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:06:36 : 28540 steps taken, and 18104 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:07:26 : 28149 steps taken, and 18015 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:07:36 : 28399 steps taken, and 17955 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:07:46 : 28093 steps taken, and 17766 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:07:53 : 28548 steps taken, and 18106 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:08:31 : 28157 steps taken, and 18017 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:08:42 : 28405 steps taken, and 17956 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:08:59 : 28098 steps taken, and 17768 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:08:59 : 28554 steps taken, and 18109 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:09:43 : 28165 steps taken, and 18018 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:09:48 : 28410 steps taken, and 17960 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:10:04 : 28560 steps taken, and 18113 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:10:04 : 28105 steps taken, and 17770 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:10:59 : 28179 steps taken, and 18021 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:11:00 : 28415 steps taken, and 17962 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:11:09 : 28565 steps taken, and 18114 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:11:09 : 28112 steps taken, and 17771 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:12:05 : 28188 steps taken, and 18024 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:12:05 : 28423 steps taken, and 17963 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:12:14 : 28117 steps taken, and 17775 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:12:27 : 28571 steps taken, and 18116 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:13:17 : 28192 steps taken, and 18027 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:13:23 : 28428 steps taken, and 17965 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:13:26 : 28122 steps taken, and 17777 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:13:31 : 28577 steps taken, and 18120 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:14:17 : 28196 steps taken, and 18028 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:14:31 : 28128 steps taken, and 17778 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:14:34 : 28436 steps taken, and 17967 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:14:44 : 28583 steps taken, and 18122 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:15:35 : 28201 steps taken, and 18031 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:15:37 : 28134 steps taken, and 17781 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:15:47 : 28440 steps taken, and 17968 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:15:49 : 28588 steps taken, and 18124 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:16:37 : 28138 steps taken, and 17782 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:16:40 : 28208 steps taken, and 18034 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:17:05 : 28448 steps taken, and 17970 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:17:07 : 28594 steps taken, and 18125 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:17:40 : 28213 steps taken, and 18036 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:17:42 : 28148 steps taken, and 17785 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:18:10 : 28454 steps taken, and 17973 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:18:23 : 28603 steps taken, and 18126 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:18:50 : 28219 steps taken, and 18040 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:19:00 : 28156 steps taken, and 17787 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:19:23 : 28459 steps taken, and 17976 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:19:24 : 28609 steps taken, and 18127 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:20:01 : 28223 steps taken, and 18040 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:20:11 : 28164 steps taken, and 17789 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:20:27 : 28468 steps taken, and 17979 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:20:42 : 28614 steps taken, and 18129 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:21:07 : 28232 steps taken, and 18042 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:21:12 : 28169 steps taken, and 17793 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:21:38 : 28479 steps taken, and 17981 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:21:54 : 28619 steps taken, and 18130 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:22:17 : 28242 steps taken, and 18043 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:22:24 : 28174 steps taken, and 17794 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:22:38 : 28486 steps taken, and 17985 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:23:00 : 28624 steps taken, and 18132 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:23:22 : 28251 steps taken, and 18045 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:23:42 : 28183 steps taken, and 17796 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:23:43 : 28492 steps taken, and 17986 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:24:05 : 28632 steps taken, and 18135 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:24:35 : 28257 steps taken, and 18045 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:24:48 : 28498 steps taken, and 17989 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:25:00 : 28189 steps taken, and 17797 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:25:06 : 28636 steps taken, and 18137 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:25:53 : 28262 steps taken, and 18047 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:26:00 : 28502 steps taken, and 17991 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:26:05 : 28198 steps taken, and 17798 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:26:11 : 28643 steps taken, and 18139 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:26:53 : 28267 steps taken, and 18049 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:27:04 : 28508 steps taken, and 17993 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:27:10 : 28204 steps taken, and 17800 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:27:15 : 28650 steps taken, and 18142 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:27:59 : 28275 steps taken, and 18053 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:28:09 : 28518 steps taken, and 17996 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:28:28 : 28210 steps taken, and 17802 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:28:31 : 28655 steps taken, and 18145 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:29:10 : 28283 steps taken, and 18055 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:29:21 : 28525 steps taken, and 17997 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:29:34 : 28215 steps taken, and 17804 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:29:48 : 28665 steps taken, and 18147 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:30:15 : 28293 steps taken, and 18058 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:30:25 : 28537 steps taken, and 18000 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:30:39 : 28223 steps taken, and 17806 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:31:05 : 28676 steps taken, and 18149 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:31:26 : 28544 steps taken, and 18003 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:31:33 : 28298 steps taken, and 18061 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:31:57 : 28231 steps taken, and 17806 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:32:22 : 28682 steps taken, and 18154 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:32:31 : 28552 steps taken, and 18007 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:32:38 : 28303 steps taken, and 18063 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:33:03 : 28236 steps taken, and 17809 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:33:40 : 28689 steps taken, and 18158 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:33:48 : 28558 steps taken, and 18008 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:33:50 : 28307 steps taken, and 18066 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:34:03 : 28241 steps taken, and 17810 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:34:45 : 28694 steps taken, and 18161 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:35:00 : 28315 steps taken, and 18068 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:35:05 : 28565 steps taken, and 18012 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:35:21 : 28247 steps taken, and 17812 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:36:03 : 28701 steps taken, and 18163 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:36:06 : 28569 steps taken, and 18014 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:36:13 : 28321 steps taken, and 18071 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:36:25 : 28256 steps taken, and 17814 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:37:08 : 28707 steps taken, and 18165 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:37:11 : 28574 steps taken, and 18016 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:37:18 : 28329 steps taken, and 18073 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:37:43 : 28262 steps taken, and 17817 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:38:21 : 28714 steps taken, and 18168 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:38:22 : 28336 steps taken, and 18075 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:38:29 : 28585 steps taken, and 18018 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:38:48 : 28267 steps taken, and 17818 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:39:21 : 28718 steps taken, and 18168 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:39:22 : 28341 steps taken, and 18078 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:39:42 : 28589 steps taken, and 18019 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:39:53 : 28272 steps taken, and 17819 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:40:27 : 28724 steps taken, and 18170 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:40:35 : 28348 steps taken, and 18080 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:40:53 : 28277 steps taken, and 17821 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:40:53 : 28596 steps taken, and 18021 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:41:33 : 28732 steps taken, and 18173 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:41:40 : 28355 steps taken, and 18082 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:41:54 : 28602 steps taken, and 18021 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:41:58 : 28289 steps taken, and 17825 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:42:46 : 28736 steps taken, and 18175 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:42:59 : 28364 steps taken, and 18084 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:43:00 : 28607 steps taken, and 18024 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:43:10 : 28295 steps taken, and 17826 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:43:59 : 28368 steps taken, and 18084 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:44:04 : 28749 steps taken, and 18177 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:44:18 : 28612 steps taken, and 18024 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:44:22 : 28304 steps taken, and 17830 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:45:09 : 28754 steps taken, and 18179 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:45:11 : 28372 steps taken, and 18088 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:45:27 : 28310 steps taken, and 17834 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:45:30 : 28617 steps taken, and 18026 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:46:16 : 28377 steps taken, and 18091 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:46:26 : 28760 steps taken, and 18182 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:46:44 : 28316 steps taken, and 17836 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:46:48 : 28622 steps taken, and 18030 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:47:20 : 28393 steps taken, and 18093 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:47:31 : 28770 steps taken, and 18185 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:47:53 : 28628 steps taken, and 18031 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:48:02 : 28321 steps taken, and 17839 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:48:25 : 28399 steps taken, and 18095 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:48:44 : 28775 steps taken, and 18189 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:49:05 : 28632 steps taken, and 18033 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:49:06 : 28331 steps taken, and 17842 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:49:35 : 28411 steps taken, and 18098 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:49:44 : 28780 steps taken, and 18191 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:50:05 : 28636 steps taken, and 18036 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:50:19 : 28337 steps taken, and 17843 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:50:48 : 28416 steps taken, and 18101 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:50:59 : 28786 steps taken, and 18195 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:51:24 : 28642 steps taken, and 18038 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:51:25 : 28343 steps taken, and 17844 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:51:53 : 28422 steps taken, and 18101 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:52:04 : 28792 steps taken, and 18196 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:52:24 : 28646 steps taken, and 18040 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:52:29 : 28349 steps taken, and 17845 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:53:06 : 28426 steps taken, and 18103 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:53:20 : 28800 steps taken, and 18198 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:53:29 : 28651 steps taken, and 18042 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:53:41 : 28355 steps taken, and 17846 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:54:11 : 28433 steps taken, and 18105 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:54:29 : 28655 steps taken, and 18044 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:54:37 : 28808 steps taken, and 18203 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:54:53 : 28366 steps taken, and 17848 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:55:12 : 28440 steps taken, and 18107 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:55:42 : 28661 steps taken, and 18047 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:55:49 : 28813 steps taken, and 18207 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:55:57 : 28374 steps taken, and 17851 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:56:16 : 28446 steps taken, and 18110 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:56:54 : 28820 steps taken, and 18209 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:56:58 : 28670 steps taken, and 18050 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:57:14 : 28383 steps taken, and 17853 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:57:33 : 28455 steps taken, and 18111 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:58:12 : 28829 steps taken, and 18210 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:58:16 : 28676 steps taken, and 18052 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:58:23 : 28390 steps taken, and 17856 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:58:38 : 28462 steps taken, and 18114 accepted.
+[1 : mcmc] Progress @ 2025-06-05 05:59:16 : 28682 steps taken, and 18053 accepted.
+[0 : mcmc] Progress @ 2025-06-05 05:59:23 : 28837 steps taken, and 18212 accepted.
+[3 : mcmc] Progress @ 2025-06-05 05:59:40 : 28402 steps taken, and 17857 accepted.
+[2 : mcmc] Progress @ 2025-06-05 05:59:56 : 28470 steps taken, and 18116 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:00:17 : 28687 steps taken, and 18054 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:00:28 : 28845 steps taken, and 18213 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:00:56 : 28409 steps taken, and 17861 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:01:14 : 28479 steps taken, and 18118 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:01:27 : 28696 steps taken, and 18056 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:01:38 : 28851 steps taken, and 18214 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:02:01 : 28414 steps taken, and 17863 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:02:20 : 28487 steps taken, and 18121 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:02:33 : 28702 steps taken, and 18058 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:02:52 : 28859 steps taken, and 18215 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:03:19 : 28419 steps taken, and 17867 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:03:20 : 28492 steps taken, and 18121 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:03:38 : 28707 steps taken, and 18062 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:03:57 : 28865 steps taken, and 18216 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:04:19 : 28424 steps taken, and 17869 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:04:31 : 28499 steps taken, and 18124 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:04:50 : 28712 steps taken, and 18065 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:05:02 : 28871 steps taken, and 18216 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:05:32 : 28429 steps taken, and 17871 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:05:35 : 28508 steps taken, and 18126 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:06:02 : 28719 steps taken, and 18067 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:06:15 : 28876 steps taken, and 18217 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:06:40 : 28518 steps taken, and 18130 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:06:49 : 28434 steps taken, and 17872 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:07:07 : 28724 steps taken, and 18068 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:07:20 : 28883 steps taken, and 18220 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:07:51 : 28527 steps taken, and 18134 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:07:54 : 28439 steps taken, and 17874 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:08:08 : 28729 steps taken, and 18070 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:08:36 : 28893 steps taken, and 18225 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:08:54 : 28445 steps taken, and 17876 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:08:57 : 28538 steps taken, and 18134 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:09:08 : 28734 steps taken, and 18072 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:09:48 : 28897 steps taken, and 18227 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:10:01 : 28546 steps taken, and 18137 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:10:04 : 28456 steps taken, and 17880 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:10:20 : 28742 steps taken, and 18072 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:10:58 : 28907 steps taken, and 18230 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:11:10 : 28463 steps taken, and 17883 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:11:19 : 28555 steps taken, and 18139 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:11:26 : 28747 steps taken, and 18073 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:12:10 : 28469 steps taken, and 17884 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:12:14 : 28912 steps taken, and 18232 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:12:24 : 28560 steps taken, and 18142 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:12:38 : 28752 steps taken, and 18075 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:13:11 : 28474 steps taken, and 17886 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:13:30 : 28568 steps taken, and 18144 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:13:31 : 28919 steps taken, and 18236 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:13:50 : 28759 steps taken, and 18076 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:14:22 : 28482 steps taken, and 17889 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:14:34 : 28573 steps taken, and 18146 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:14:35 : 28931 steps taken, and 18238 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:14:54 : 28765 steps taken, and 18080 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:15:35 : 28487 steps taken, and 17892 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:15:39 : 28936 steps taken, and 18238 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:15:53 : 28579 steps taken, and 18150 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:15:59 : 28773 steps taken, and 18083 accepted.
+[0 : mcmc] Learn + convergence test @ 18240 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2025-06-05 06:16:40 : 28492 steps taken, and 17894 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:16:44 : 28942 steps taken, and 18241 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:16:58 : 28589 steps taken, and 18151 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:17:10 : 28780 steps taken, and 18085 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:17:47 : 28495 steps taken, and 17894 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:17:58 : 28593 steps taken, and 18153 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:18:01 : 28950 steps taken, and 18244 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:18:22 : 28784 steps taken, and 18087 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:18:52 : 28504 steps taken, and 17896 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:19:12 : 28597 steps taken, and 18154 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:19:13 : 28955 steps taken, and 18246 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:19:26 : 28789 steps taken, and 18087 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:19:57 : 28509 steps taken, and 17896 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:20:17 : 28603 steps taken, and 18158 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:20:30 : 28962 steps taken, and 18246 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:20:38 : 28793 steps taken, and 18089 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:21:15 : 28518 steps taken, and 17898 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:21:22 : 28610 steps taken, and 18160 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:21:47 : 28968 steps taken, and 18249 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:21:49 : 28799 steps taken, and 18092 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:22:21 : 28524 steps taken, and 17901 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:22:34 : 28615 steps taken, and 18162 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:22:51 : 28973 steps taken, and 18252 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:22:59 : 28806 steps taken, and 18096 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:23:31 : 28535 steps taken, and 17902 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:23:39 : 28620 steps taken, and 18165 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:24:03 : 28978 steps taken, and 18253 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:24:17 : 28814 steps taken, and 18099 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:24:43 : 28539 steps taken, and 17905 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:24:51 : 28625 steps taken, and 18169 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:25:08 : 28983 steps taken, and 18253 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:25:34 : 28819 steps taken, and 18102 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:25:53 : 28547 steps taken, and 17906 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:26:08 : 28630 steps taken, and 18172 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:26:26 : 28989 steps taken, and 18254 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:26:52 : 28825 steps taken, and 18105 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:27:11 : 28553 steps taken, and 17909 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:27:25 : 28638 steps taken, and 18176 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:27:31 : 28994 steps taken, and 18259 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:27:52 : 28830 steps taken, and 18108 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:28:16 : 28562 steps taken, and 17911 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:28:36 : 28644 steps taken, and 18178 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:28:36 : 29003 steps taken, and 18262 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:28:58 : 28836 steps taken, and 18109 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:29:33 : 28579 steps taken, and 17912 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:29:41 : 29011 steps taken, and 18266 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:29:48 : 28650 steps taken, and 18180 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:30:11 : 28843 steps taken, and 18111 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:30:39 : 28586 steps taken, and 17914 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:30:47 : 29021 steps taken, and 18270 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:31:06 : 28657 steps taken, and 18183 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:31:27 : 28859 steps taken, and 18114 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:31:39 : 28592 steps taken, and 17915 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:31:59 : 29025 steps taken, and 18273 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:32:11 : 28666 steps taken, and 18187 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:32:39 : 28597 steps taken, and 17917 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:32:45 : 28867 steps taken, and 18115 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:33:05 : 29034 steps taken, and 18276 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:33:27 : 28679 steps taken, and 18192 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:33:44 : 28605 steps taken, and 17919 accepted.
+[3 : mcmc] Learn + convergence test @ 17920 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Progress @ 2025-06-05 06:34:03 : 28872 steps taken, and 18118 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:34:10 : 29040 steps taken, and 18279 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:34:33 : 28685 steps taken, and 18196 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:34:50 : 28610 steps taken, and 17921 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:35:09 : 28878 steps taken, and 18121 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:35:22 : 29047 steps taken, and 18282 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:35:46 : 28690 steps taken, and 18199 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:35:50 : 28615 steps taken, and 17923 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:36:22 : 28885 steps taken, and 18122 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:36:39 : 29053 steps taken, and 18285 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:36:50 : 28620 steps taken, and 17925 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:37:04 : 28698 steps taken, and 18199 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:37:33 : 28893 steps taken, and 18123 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:37:50 : 29061 steps taken, and 18287 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:38:07 : 28625 steps taken, and 17928 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:38:09 : 28705 steps taken, and 18203 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:38:33 : 28897 steps taken, and 18126 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:39:01 : 29070 steps taken, and 18291 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:39:12 : 28631 steps taken, and 17930 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:39:14 : 28713 steps taken, and 18206 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:39:46 : 28901 steps taken, and 18126 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:40:13 : 29075 steps taken, and 18293 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:40:18 : 28636 steps taken, and 17931 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:40:19 : 28719 steps taken, and 18207 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:40:52 : 28907 steps taken, and 18128 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:41:20 : 28724 steps taken, and 18210 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:41:24 : 29083 steps taken, and 18295 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:41:35 : 28643 steps taken, and 17933 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:41:58 : 28913 steps taken, and 18131 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:42:20 : 28728 steps taken, and 18212 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:42:42 : 29090 steps taken, and 18298 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:42:53 : 28648 steps taken, and 17938 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:43:03 : 28918 steps taken, and 18132 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:43:32 : 28732 steps taken, and 18212 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:43:53 : 29102 steps taken, and 18301 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:44:06 : 28655 steps taken, and 17940 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:44:08 : 28925 steps taken, and 18134 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:44:37 : 28739 steps taken, and 18214 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:45:11 : 29111 steps taken, and 18305 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:45:11 : 28663 steps taken, and 17941 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:45:21 : 28929 steps taken, and 18136 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:45:54 : 28748 steps taken, and 18217 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:46:16 : 29120 steps taken, and 18305 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:46:22 : 28936 steps taken, and 18139 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:46:29 : 28669 steps taken, and 17944 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:47:12 : 28755 steps taken, and 18220 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:47:28 : 29124 steps taken, and 18308 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:47:34 : 28675 steps taken, and 17947 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:47:39 : 28947 steps taken, and 18143 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:48:24 : 28759 steps taken, and 18220 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:48:38 : 29132 steps taken, and 18311 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:48:39 : 28951 steps taken, and 18144 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:48:46 : 28679 steps taken, and 17949 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:49:35 : 28765 steps taken, and 18222 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:49:39 : 28956 steps taken, and 18145 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:49:49 : 29144 steps taken, and 18313 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:49:51 : 28685 steps taken, and 17952 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:50:39 : 28960 steps taken, and 18147 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:50:40 : 28772 steps taken, and 18223 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:50:54 : 29151 steps taken, and 18314 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:51:08 : 28692 steps taken, and 17956 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:51:40 : 28964 steps taken, and 18150 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:51:53 : 28778 steps taken, and 18226 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:52:06 : 29155 steps taken, and 18317 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:52:14 : 28699 steps taken, and 17958 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:52:40 : 28968 steps taken, and 18150 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:52:58 : 28783 steps taken, and 18226 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:53:14 : 28703 steps taken, and 17960 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:53:24 : 29161 steps taken, and 18319 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:53:46 : 28973 steps taken, and 18151 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:53:58 : 28788 steps taken, and 18229 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:54:19 : 28708 steps taken, and 17962 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:54:29 : 29166 steps taken, and 18321 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:54:51 : 28979 steps taken, and 18151 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:55:04 : 28796 steps taken, and 18233 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:55:20 : 28715 steps taken, and 17964 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:55:34 : 29176 steps taken, and 18325 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:56:03 : 28983 steps taken, and 18153 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:56:21 : 28802 steps taken, and 18236 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:56:24 : 28723 steps taken, and 17966 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:56:39 : 29181 steps taken, and 18326 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:57:20 : 28991 steps taken, and 18155 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:57:25 : 28807 steps taken, and 18239 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:57:37 : 28727 steps taken, and 17968 accepted.
+[2 : mcmc] Learn + convergence test @ 18240 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Progress @ 2025-06-05 06:57:51 : 29186 steps taken, and 18328 accepted.
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[1 : mcmc] Progress @ 2025-06-05 06:58:31 : 28996 steps taken, and 18155 accepted.
+[0 : mcmc]  - Acceptance rate: 0.321 = avg([0.3219, 0.3198, 0.3202, 0.3218])
+[0 : mcmc]  - Convergence of means: R-1 = 0.009581 after 72694 accepted steps = sum([18329, 18156, 18240, 17969])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[2 : mcmc] Progress @ 2025-06-05 06:58:41 : 28809 steps taken, and 18241 accepted.
+[0 : mcmc] Progress @ 2025-06-05 06:58:54 : 29188 steps taken, and 18330 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:58:54 : 28730 steps taken, and 17969 accepted.
+[2 : mcmc] Progress @ 2025-06-05 06:59:41 : 28813 steps taken, and 18242 accepted.
+[1 : mcmc] Progress @ 2025-06-05 06:59:48 : 29002 steps taken, and 18159 accepted.
+[3 : mcmc] Progress @ 2025-06-05 06:59:59 : 28735 steps taken, and 17972 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:00:04 : 29197 steps taken, and 18333 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:00:52 : 29012 steps taken, and 18160 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:00:53 : 28817 steps taken, and 18243 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:01:04 : 28741 steps taken, and 17974 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:01:07 : 29204 steps taken, and 18336 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:02:10 : 29017 steps taken, and 18161 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:02:10 : 28822 steps taken, and 18247 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:02:16 : 28746 steps taken, and 17976 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:02:24 : 29216 steps taken, and 18337 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:03:11 : 28828 steps taken, and 18249 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:03:22 : 28751 steps taken, and 17978 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:03:22 : 29021 steps taken, and 18163 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:03:28 : 29228 steps taken, and 18339 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:04:22 : 28755 steps taken, and 17980 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:04:29 : 28833 steps taken, and 18253 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:04:32 : 29241 steps taken, and 18342 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:04:34 : 29027 steps taken, and 18164 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:05:34 : 28839 steps taken, and 18255 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:05:34 : 29033 steps taken, and 18165 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:05:36 : 29247 steps taken, and 18346 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:05:40 : 28760 steps taken, and 17983 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:06:40 : 28847 steps taken, and 18258 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:06:40 : 29038 steps taken, and 18165 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:06:53 : 29256 steps taken, and 18347 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:06:58 : 28766 steps taken, and 17984 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:07:53 : 29042 steps taken, and 18167 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:07:58 : 28856 steps taken, and 18260 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:07:59 : 29262 steps taken, and 18350 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:08:03 : 28771 steps taken, and 17986 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:08:59 : 29266 steps taken, and 18354 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:09:03 : 29051 steps taken, and 18169 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:09:03 : 28862 steps taken, and 18264 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:09:21 : 28778 steps taken, and 17988 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:09:59 : 29272 steps taken, and 18356 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:10:16 : 28866 steps taken, and 18266 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:10:21 : 29060 steps taken, and 18170 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:10:27 : 28786 steps taken, and 17991 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:11:04 : 29279 steps taken, and 18356 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:11:20 : 28872 steps taken, and 18268 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:11:32 : 28791 steps taken, and 17993 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:11:32 : 29068 steps taken, and 18172 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:12:10 : 29287 steps taken, and 18359 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:12:25 : 28881 steps taken, and 18271 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:12:37 : 28798 steps taken, and 17996 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:12:37 : 29074 steps taken, and 18177 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:13:14 : 29292 steps taken, and 18362 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:13:29 : 28893 steps taken, and 18273 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:13:42 : 29082 steps taken, and 18179 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:13:42 : 28804 steps taken, and 17999 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:14:26 : 29300 steps taken, and 18366 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:14:34 : 28903 steps taken, and 18275 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:14:54 : 28808 steps taken, and 18003 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:14:54 : 29087 steps taken, and 18180 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:15:31 : 29306 steps taken, and 18369 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:15:44 : 28915 steps taken, and 18276 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:16:06 : 28812 steps taken, and 18005 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:16:12 : 29093 steps taken, and 18183 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:16:44 : 28922 steps taken, and 18279 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:16:49 : 29314 steps taken, and 18370 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:17:12 : 28817 steps taken, and 18008 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:17:23 : 29100 steps taken, and 18187 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:18:01 : 28929 steps taken, and 18282 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:18:06 : 29319 steps taken, and 18373 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:18:18 : 28822 steps taken, and 18011 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:18:24 : 29105 steps taken, and 18189 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:19:06 : 28936 steps taken, and 18284 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:19:11 : 29324 steps taken, and 18376 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:19:24 : 29113 steps taken, and 18192 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:19:30 : 28827 steps taken, and 18014 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:20:19 : 28942 steps taken, and 18286 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:20:28 : 29331 steps taken, and 18378 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:20:34 : 28836 steps taken, and 18017 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:20:42 : 29118 steps taken, and 18195 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:21:35 : 28950 steps taken, and 18290 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:21:39 : 29339 steps taken, and 18380 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:21:47 : 29123 steps taken, and 18195 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:21:51 : 28844 steps taken, and 18018 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:22:44 : 29349 steps taken, and 18382 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:22:53 : 28955 steps taken, and 18292 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:23:04 : 29128 steps taken, and 18198 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:23:09 : 28849 steps taken, and 18022 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:23:54 : 29357 steps taken, and 18385 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:24:11 : 28960 steps taken, and 18296 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:24:14 : 28854 steps taken, and 18025 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:24:21 : 29134 steps taken, and 18200 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:25:07 : 29362 steps taken, and 18387 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:25:20 : 28861 steps taken, and 18028 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:25:28 : 28968 steps taken, and 18299 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:25:38 : 29140 steps taken, and 18203 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:26:12 : 29368 steps taken, and 18389 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:26:25 : 28869 steps taken, and 18030 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:26:28 : 28973 steps taken, and 18301 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:26:42 : 29150 steps taken, and 18206 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:27:18 : 29374 steps taken, and 18391 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:27:33 : 28981 steps taken, and 18302 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:27:38 : 28874 steps taken, and 18032 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:28:00 : 29159 steps taken, and 18207 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:28:30 : 29378 steps taken, and 18393 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:28:43 : 28989 steps taken, and 18303 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:28:44 : 28879 steps taken, and 18034 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:29:04 : 29164 steps taken, and 18209 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:29:35 : 29385 steps taken, and 18396 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:29:44 : 28883 steps taken, and 18037 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:30:01 : 29002 steps taken, and 18306 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:30:16 : 29171 steps taken, and 18211 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:30:35 : 29391 steps taken, and 18398 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:30:44 : 28888 steps taken, and 18040 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:31:18 : 29009 steps taken, and 18309 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:31:20 : 29179 steps taken, and 18215 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:31:40 : 29397 steps taken, and 18399 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:31:44 : 28895 steps taken, and 18041 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:32:24 : 29016 steps taken, and 18310 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:32:30 : 29193 steps taken, and 18217 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:32:45 : 28901 steps taken, and 18042 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:32:45 : 29404 steps taken, and 18400 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:33:24 : 29020 steps taken, and 18313 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:33:34 : 29200 steps taken, and 18219 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:33:45 : 28907 steps taken, and 18043 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:34:03 : 29410 steps taken, and 18401 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:34:24 : 29024 steps taken, and 18314 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:34:35 : 29204 steps taken, and 18221 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:34:50 : 28913 steps taken, and 18044 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:35:15 : 29415 steps taken, and 18402 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:35:29 : 29029 steps taken, and 18317 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:35:52 : 29211 steps taken, and 18225 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:35:56 : 28919 steps taken, and 18046 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:36:29 : 29034 steps taken, and 18320 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:36:32 : 29423 steps taken, and 18406 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:36:58 : 29216 steps taken, and 18227 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:37:09 : 28923 steps taken, and 18049 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:37:37 : 29430 steps taken, and 18406 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:37:47 : 29039 steps taken, and 18323 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:38:04 : 29221 steps taken, and 18231 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:38:14 : 28930 steps taken, and 18051 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:38:42 : 29436 steps taken, and 18408 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:38:51 : 29045 steps taken, and 18327 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:39:21 : 29227 steps taken, and 18233 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:39:31 : 28938 steps taken, and 18055 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:39:51 : 29054 steps taken, and 18329 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:39:55 : 29443 steps taken, and 18409 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:40:21 : 29236 steps taken, and 18234 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:40:49 : 28944 steps taken, and 18056 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:40:51 : 29059 steps taken, and 18332 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:41:06 : 29455 steps taken, and 18413 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:41:27 : 29242 steps taken, and 18237 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:42:02 : 29066 steps taken, and 18336 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:42:06 : 28950 steps taken, and 18060 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:42:23 : 29460 steps taken, and 18415 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:42:27 : 29249 steps taken, and 18238 accepted.
+[1 : mcmc] Learn + convergence test @ 18240 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2025-06-05 07:43:12 : 28955 steps taken, and 18064 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:43:20 : 29072 steps taken, and 18338 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:43:28 : 29469 steps taken, and 18418 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:43:32 : 29254 steps taken, and 18242 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:44:20 : 29076 steps taken, and 18341 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:44:29 : 28960 steps taken, and 18066 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:44:45 : 29488 steps taken, and 18421 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:44:50 : 29261 steps taken, and 18244 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:45:38 : 29083 steps taken, and 18342 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:45:46 : 28967 steps taken, and 18070 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:45:56 : 29268 steps taken, and 18247 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:45:57 : 29492 steps taken, and 18424 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:46:55 : 29091 steps taken, and 18345 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:46:56 : 29272 steps taken, and 18249 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:46:57 : 28979 steps taken, and 18073 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:47:03 : 29498 steps taken, and 18424 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:48:00 : 29097 steps taken, and 18347 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:48:01 : 29281 steps taken, and 18252 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:48:06 : 29503 steps taken, and 18425 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:48:09 : 28988 steps taken, and 18073 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:49:06 : 29104 steps taken, and 18350 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:49:06 : 29288 steps taken, and 18254 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:49:07 : 29508 steps taken, and 18427 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:49:15 : 28995 steps taken, and 18075 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:50:06 : 29293 steps taken, and 18255 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:50:11 : 29513 steps taken, and 18429 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:50:20 : 29003 steps taken, and 18079 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:50:23 : 29111 steps taken, and 18352 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:51:18 : 29304 steps taken, and 18260 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:51:29 : 29520 steps taken, and 18430 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:51:38 : 29009 steps taken, and 18082 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:51:41 : 29116 steps taken, and 18354 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:52:18 : 29311 steps taken, and 18261 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:52:35 : 29528 steps taken, and 18434 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:52:42 : 29015 steps taken, and 18083 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:52:58 : 29123 steps taken, and 18356 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:53:23 : 29317 steps taken, and 18264 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:53:48 : 29021 steps taken, and 18086 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:53:52 : 29534 steps taken, and 18437 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:54:03 : 29129 steps taken, and 18359 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:54:34 : 29328 steps taken, and 18268 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:54:57 : 29539 steps taken, and 18440 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:55:05 : 29031 steps taken, and 18088 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:55:16 : 29135 steps taken, and 18361 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:55:40 : 29333 steps taken, and 18270 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:56:11 : 29037 steps taken, and 18090 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:56:14 : 29547 steps taken, and 18445 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:56:21 : 29140 steps taken, and 18364 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:56:41 : 29338 steps taken, and 18271 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:57:17 : 29043 steps taken, and 18091 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:57:31 : 29556 steps taken, and 18447 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:57:38 : 29146 steps taken, and 18368 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:57:51 : 29349 steps taken, and 18274 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:58:22 : 29051 steps taken, and 18093 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:58:38 : 29150 steps taken, and 18369 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:58:43 : 29560 steps taken, and 18449 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:58:51 : 29355 steps taken, and 18275 accepted.
+[3 : mcmc] Progress @ 2025-06-05 07:59:22 : 29057 steps taken, and 18095 accepted.
+[2 : mcmc] Progress @ 2025-06-05 07:59:43 : 29155 steps taken, and 18373 accepted.
+[0 : mcmc] Progress @ 2025-06-05 07:59:48 : 29566 steps taken, and 18452 accepted.
+[1 : mcmc] Progress @ 2025-06-05 07:59:56 : 29361 steps taken, and 18276 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:00:33 : 29067 steps taken, and 18097 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:00:53 : 29574 steps taken, and 18454 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:01:00 : 29168 steps taken, and 18374 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:01:09 : 29365 steps taken, and 18277 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:01:34 : 29072 steps taken, and 18100 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:02:10 : 29583 steps taken, and 18458 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:02:14 : 29371 steps taken, and 18280 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:02:18 : 29174 steps taken, and 18376 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:02:46 : 29076 steps taken, and 18101 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:03:23 : 29182 steps taken, and 18378 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:03:27 : 29589 steps taken, and 18459 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:03:32 : 29376 steps taken, and 18283 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:03:58 : 29083 steps taken, and 18102 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:04:29 : 29191 steps taken, and 18381 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:04:33 : 29595 steps taken, and 18461 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:04:37 : 29382 steps taken, and 18284 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:04:58 : 29087 steps taken, and 18104 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:05:47 : 29199 steps taken, and 18385 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:05:49 : 29601 steps taken, and 18465 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:05:54 : 29388 steps taken, and 18287 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:06:03 : 29094 steps taken, and 18107 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:06:57 : 29206 steps taken, and 18388 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:07:00 : 29610 steps taken, and 18467 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:07:12 : 29393 steps taken, and 18289 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:07:21 : 29101 steps taken, and 18109 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:08:14 : 29213 steps taken, and 18391 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:08:17 : 29399 steps taken, and 18292 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:08:18 : 29616 steps taken, and 18470 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:08:26 : 29106 steps taken, and 18111 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:09:24 : 29621 steps taken, and 18472 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:09:25 : 29224 steps taken, and 18394 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:09:35 : 29404 steps taken, and 18293 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:09:44 : 29112 steps taken, and 18113 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:10:30 : 29229 steps taken, and 18395 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:10:35 : 29409 steps taken, and 18294 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:10:36 : 29625 steps taken, and 18473 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:11:01 : 29119 steps taken, and 18116 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:11:40 : 29415 steps taken, and 18296 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:11:42 : 29630 steps taken, and 18473 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:11:48 : 29235 steps taken, and 18399 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:12:07 : 29124 steps taken, and 18119 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:12:52 : 29242 steps taken, and 18401 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:12:53 : 29421 steps taken, and 18298 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:13:00 : 29644 steps taken, and 18477 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:13:19 : 29129 steps taken, and 18120 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:13:58 : 29427 steps taken, and 18299 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:14:04 : 29246 steps taken, and 18402 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:14:12 : 29650 steps taken, and 18478 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:14:23 : 29134 steps taken, and 18122 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:15:03 : 29435 steps taken, and 18301 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:15:09 : 29251 steps taken, and 18404 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:15:17 : 29657 steps taken, and 18480 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:15:41 : 29141 steps taken, and 18127 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:16:13 : 29262 steps taken, and 18406 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:16:20 : 29440 steps taken, and 18301 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:16:21 : 29667 steps taken, and 18481 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:16:59 : 29147 steps taken, and 18129 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:17:30 : 29273 steps taken, and 18408 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:17:37 : 29447 steps taken, and 18302 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:17:37 : 29677 steps taken, and 18484 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:18:04 : 29152 steps taken, and 18131 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:18:42 : 29688 steps taken, and 18486 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:18:43 : 29277 steps taken, and 18410 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:18:54 : 29454 steps taken, and 18305 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:19:05 : 29157 steps taken, and 18131 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:19:44 : 29705 steps taken, and 18488 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:19:58 : 29291 steps taken, and 18415 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:20:05 : 29164 steps taken, and 18133 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:20:05 : 29459 steps taken, and 18307 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:20:49 : 29716 steps taken, and 18491 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:21:11 : 29464 steps taken, and 18307 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:21:13 : 29306 steps taken, and 18420 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:21:23 : 29173 steps taken, and 18136 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:21:53 : 29722 steps taken, and 18493 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:22:16 : 29469 steps taken, and 18311 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:22:23 : 29314 steps taken, and 18426 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:22:34 : 29182 steps taken, and 18138 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:22:58 : 29732 steps taken, and 18496 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:23:16 : 29475 steps taken, and 18313 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:23:41 : 29321 steps taken, and 18427 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:23:52 : 29188 steps taken, and 18140 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:24:15 : 29737 steps taken, and 18497 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:24:22 : 29482 steps taken, and 18315 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:24:51 : 29333 steps taken, and 18430 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:25:09 : 29197 steps taken, and 18144 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:25:21 : 29744 steps taken, and 18499 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:25:40 : 29488 steps taken, and 18317 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:25:51 : 29340 steps taken, and 18430 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:26:14 : 29202 steps taken, and 18148 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:26:21 : 29748 steps taken, and 18501 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:26:58 : 29496 steps taken, and 18318 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:27:02 : 29347 steps taken, and 18433 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:27:32 : 29209 steps taken, and 18150 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:27:38 : 29754 steps taken, and 18504 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:28:03 : 29501 steps taken, and 18319 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:28:20 : 29355 steps taken, and 18437 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:28:37 : 29214 steps taken, and 18154 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:28:43 : 29762 steps taken, and 18507 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:29:15 : 29505 steps taken, and 18321 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:29:25 : 29365 steps taken, and 18440 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:29:43 : 29767 steps taken, and 18508 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:29:55 : 29220 steps taken, and 18156 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:30:20 : 29511 steps taken, and 18324 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:30:37 : 29371 steps taken, and 18441 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:30:54 : 29777 steps taken, and 18510 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:31:12 : 29225 steps taken, and 18159 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:31:26 : 29516 steps taken, and 18326 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:31:43 : 29376 steps taken, and 18443 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:31:59 : 29783 steps taken, and 18511 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:32:17 : 29230 steps taken, and 18160 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:32:31 : 29526 steps taken, and 18329 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:32:48 : 29382 steps taken, and 18445 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:33:04 : 29789 steps taken, and 18515 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:33:29 : 29234 steps taken, and 18163 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:33:36 : 29536 steps taken, and 18331 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:34:07 : 29388 steps taken, and 18448 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:34:17 : 29793 steps taken, and 18519 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:34:47 : 29240 steps taken, and 18164 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:34:54 : 29543 steps taken, and 18335 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:35:22 : 29800 steps taken, and 18521 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:35:24 : 29393 steps taken, and 18448 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:35:53 : 29246 steps taken, and 18166 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:36:11 : 29549 steps taken, and 18337 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:36:27 : 29807 steps taken, and 18524 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:36:29 : 29399 steps taken, and 18450 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:37:10 : 29264 steps taken, and 18167 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:37:29 : 29556 steps taken, and 18340 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:37:31 : 29813 steps taken, and 18527 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[2 : mcmc] Progress @ 2025-06-05 08:37:34 : 29405 steps taken, and 18453 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[3 : mcmc] Progress @ 2025-06-05 08:38:10 : 29273 steps taken, and 18169 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:38:44 : 29817 steps taken, and 18529 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:38:46 : 29562 steps taken, and 18344 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:38:46 : 29409 steps taken, and 18453 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:39:10 : 29277 steps taken, and 18171 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:39:48 : 29827 steps taken, and 18531 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:40:03 : 29416 steps taken, and 18457 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:40:04 : 29570 steps taken, and 18347 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:40:28 : 29284 steps taken, and 18174 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:41:05 : 29835 steps taken, and 18532 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:41:20 : 29421 steps taken, and 18459 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:41:21 : 29575 steps taken, and 18348 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:41:47 : 29290 steps taken, and 18178 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:42:16 : 29841 steps taken, and 18533 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:42:21 : 29425 steps taken, and 18459 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:42:38 : 29581 steps taken, and 18348 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:42:52 : 29295 steps taken, and 18179 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:43:26 : 29431 steps taken, and 18462 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:43:34 : 29847 steps taken, and 18536 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:43:38 : 29585 steps taken, and 18351 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:44:09 : 29300 steps taken, and 18180 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:44:38 : 29436 steps taken, and 18463 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:44:42 : 29594 steps taken, and 18354 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:44:44 : 29854 steps taken, and 18541 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:45:21 : 29308 steps taken, and 18181 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:45:43 : 29443 steps taken, and 18465 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:45:47 : 29601 steps taken, and 18355 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:46:02 : 29859 steps taken, and 18541 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:46:21 : 29318 steps taken, and 18183 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:46:48 : 29448 steps taken, and 18468 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:46:52 : 29609 steps taken, and 18355 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:47:19 : 29865 steps taken, and 18543 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:47:33 : 29327 steps taken, and 18184 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:47:53 : 29453 steps taken, and 18470 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:48:10 : 29615 steps taken, and 18357 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:48:24 : 29870 steps taken, and 18543 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:48:33 : 29333 steps taken, and 18185 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:49:10 : 29459 steps taken, and 18471 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:49:22 : 29622 steps taken, and 18358 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:49:41 : 29876 steps taken, and 18547 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:49:43 : 29342 steps taken, and 18187 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:50:21 : 29463 steps taken, and 18472 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:50:28 : 29627 steps taken, and 18359 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:50:57 : 29347 steps taken, and 18188 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:50:59 : 29885 steps taken, and 18551 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:51:32 : 29470 steps taken, and 18475 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:51:39 : 29635 steps taken, and 18361 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:52:02 : 29353 steps taken, and 18190 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:52:04 : 29891 steps taken, and 18553 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:52:45 : 29478 steps taken, and 18477 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:52:56 : 29641 steps taken, and 18363 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:53:15 : 29358 steps taken, and 18191 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:53:21 : 29896 steps taken, and 18555 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:53:58 : 29489 steps taken, and 18481 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:54:02 : 29647 steps taken, and 18364 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:54:21 : 29364 steps taken, and 18193 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:54:22 : 29900 steps taken, and 18557 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:55:02 : 29495 steps taken, and 18483 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:55:20 : 29653 steps taken, and 18366 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:55:26 : 29905 steps taken, and 18560 accepted.
+[0 : mcmc] Learn + convergence test @ 18560 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2025-06-05 08:55:39 : 29374 steps taken, and 18196 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:56:07 : 29502 steps taken, and 18487 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:56:20 : 29658 steps taken, and 18366 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:56:44 : 29915 steps taken, and 18562 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:56:49 : 29380 steps taken, and 18198 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:57:11 : 29510 steps taken, and 18489 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:57:32 : 29665 steps taken, and 18369 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:58:02 : 29921 steps taken, and 18564 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:58:08 : 29385 steps taken, and 18200 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:58:29 : 29516 steps taken, and 18493 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:58:36 : 29671 steps taken, and 18370 accepted.
+[0 : mcmc] Progress @ 2025-06-05 08:59:12 : 29931 steps taken, and 18566 accepted.
+[3 : mcmc] Progress @ 2025-06-05 08:59:14 : 29391 steps taken, and 18203 accepted.
+[2 : mcmc] Progress @ 2025-06-05 08:59:29 : 29520 steps taken, and 18494 accepted.
+[1 : mcmc] Progress @ 2025-06-05 08:59:49 : 29676 steps taken, and 18374 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:00:18 : 29937 steps taken, and 18567 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:00:29 : 29524 steps taken, and 18495 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:00:32 : 29397 steps taken, and 18205 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:00:54 : 29681 steps taken, and 18377 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:01:29 : 29528 steps taken, and 18497 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:01:31 : 29941 steps taken, and 18567 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:01:32 : 29401 steps taken, and 18206 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:02:11 : 29686 steps taken, and 18379 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:02:31 : 29946 steps taken, and 18569 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:02:35 : 29533 steps taken, and 18497 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:02:38 : 29406 steps taken, and 18210 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:03:29 : 29691 steps taken, and 18382 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:03:39 : 29410 steps taken, and 18212 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:03:42 : 29955 steps taken, and 18571 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:03:48 : 29539 steps taken, and 18499 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:04:35 : 29696 steps taken, and 18385 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:04:47 : 29961 steps taken, and 18574 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:04:52 : 29415 steps taken, and 18215 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:05:06 : 29547 steps taken, and 18501 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:05:40 : 29705 steps taken, and 18388 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:06:00 : 29965 steps taken, and 18575 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:06:04 : 29420 steps taken, and 18217 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:06:16 : 29558 steps taken, and 18505 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:06:45 : 29713 steps taken, and 18390 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:07:00 : 29969 steps taken, and 18578 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:07:15 : 29427 steps taken, and 18221 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:07:27 : 29565 steps taken, and 18509 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:07:45 : 29718 steps taken, and 18392 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:08:04 : 29974 steps taken, and 18581 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:08:20 : 29433 steps taken, and 18222 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:08:45 : 29572 steps taken, and 18512 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:08:46 : 29723 steps taken, and 18394 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:09:16 : 29979 steps taken, and 18584 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:09:21 : 29437 steps taken, and 18225 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:09:51 : 29734 steps taken, and 18395 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:10:03 : 29578 steps taken, and 18515 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:10:21 : 29442 steps taken, and 18227 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:10:26 : 29986 steps taken, and 18585 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:11:01 : 29742 steps taken, and 18398 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:11:07 : 29585 steps taken, and 18515 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:11:22 : 29447 steps taken, and 18229 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:11:43 : 29994 steps taken, and 18588 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:12:12 : 29596 steps taken, and 18516 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:12:13 : 29748 steps taken, and 18400 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:12:27 : 29454 steps taken, and 18230 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:12:48 : 29999 steps taken, and 18590 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:13:18 : 29757 steps taken, and 18402 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:13:30 : 29601 steps taken, and 18516 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:13:38 : 29462 steps taken, and 18232 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:14:06 : 30004 steps taken, and 18593 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:14:18 : 29763 steps taken, and 18403 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:14:35 : 29606 steps taken, and 18518 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:14:50 : 29467 steps taken, and 18235 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:15:11 : 30009 steps taken, and 18597 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:15:19 : 29768 steps taken, and 18406 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:15:52 : 29616 steps taken, and 18521 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:15:55 : 29476 steps taken, and 18238 accepted.
+[3 : mcmc] Learn + convergence test @ 18240 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Progress @ 2025-06-05 09:16:28 : 30015 steps taken, and 18598 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:16:32 : 29773 steps taken, and 18408 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:16:58 : 29484 steps taken, and 18243 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:17:09 : 29628 steps taken, and 18522 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:17:41 : 30020 steps taken, and 18600 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:17:47 : 29782 steps taken, and 18409 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:18:03 : 29492 steps taken, and 18248 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:18:15 : 29637 steps taken, and 18524 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:18:45 : 30030 steps taken, and 18602 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:18:59 : 29788 steps taken, and 18412 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:19:09 : 29500 steps taken, and 18251 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:19:20 : 29647 steps taken, and 18526 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:19:57 : 30035 steps taken, and 18603 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:20:04 : 29795 steps taken, and 18414 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:20:21 : 29504 steps taken, and 18253 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:20:24 : 29658 steps taken, and 18528 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:21:10 : 29800 steps taken, and 18417 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:21:15 : 30042 steps taken, and 18604 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:21:27 : 29511 steps taken, and 18255 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:21:35 : 29670 steps taken, and 18534 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:22:15 : 29810 steps taken, and 18419 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:22:27 : 29515 steps taken, and 18257 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:22:32 : 30047 steps taken, and 18605 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:22:48 : 29674 steps taken, and 18536 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:23:20 : 29816 steps taken, and 18420 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:23:45 : 29521 steps taken, and 18260 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:23:50 : 30053 steps taken, and 18607 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:24:06 : 29679 steps taken, and 18537 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:24:33 : 29822 steps taken, and 18422 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:24:50 : 29527 steps taken, and 18262 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:24:55 : 30059 steps taken, and 18609 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:25:17 : 29687 steps taken, and 18539 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:25:37 : 29831 steps taken, and 18424 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:25:55 : 29536 steps taken, and 18264 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:25:59 : 30069 steps taken, and 18613 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:26:34 : 29694 steps taken, and 18540 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:26:55 : 29839 steps taken, and 18426 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:26:55 : 29540 steps taken, and 18265 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:27:04 : 30075 steps taken, and 18616 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:27:52 : 29703 steps taken, and 18542 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:28:06 : 29845 steps taken, and 18427 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:28:14 : 29548 steps taken, and 18265 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:28:22 : 30081 steps taken, and 18618 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:29:05 : 29708 steps taken, and 18543 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:29:06 : 29851 steps taken, and 18428 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:29:25 : 29557 steps taken, and 18268 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:29:27 : 30087 steps taken, and 18620 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:30:11 : 29713 steps taken, and 18545 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:30:11 : 29859 steps taken, and 18429 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:30:37 : 29563 steps taken, and 18269 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:30:39 : 30091 steps taken, and 18620 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:31:24 : 29865 steps taken, and 18432 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:31:29 : 29721 steps taken, and 18547 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:31:41 : 29572 steps taken, and 18273 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:31:43 : 30097 steps taken, and 18621 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:32:29 : 29873 steps taken, and 18435 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:32:44 : 29731 steps taken, and 18550 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:32:53 : 29577 steps taken, and 18276 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:32:56 : 30103 steps taken, and 18625 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:33:34 : 29881 steps taken, and 18437 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:33:53 : 29581 steps taken, and 18279 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:33:56 : 29739 steps taken, and 18552 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:34:13 : 30109 steps taken, and 18627 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:34:40 : 29888 steps taken, and 18439 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:34:59 : 29587 steps taken, and 18282 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:35:14 : 29746 steps taken, and 18554 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:35:19 : 30115 steps taken, and 18629 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:35:40 : 29894 steps taken, and 18440 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:36:16 : 29598 steps taken, and 18284 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:36:18 : 29756 steps taken, and 18558 accepted.
+[0 : mcmc] Progress @ 2025-06-05 09:36:19 : 30119 steps taken, and 18631 accepted.
+[1 : mcmc] Progress @ 2025-06-05 09:36:56 : 29908 steps taken, and 18441 accepted.
+[3 : mcmc] Progress @ 2025-06-05 09:37:27 : 29606 steps taken, and 18288 accepted.
+[2 : mcmc] Progress @ 2025-06-05 09:37:31 : 29761 steps taken, and 18560 accepted.
+[2 : mcmc] Learn + convergence test @ 18560 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Progress @ 2025-06-05 09:37:31 : 30124 steps taken, and 18633 accepted.
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.322 = avg([0.3223, 0.3198, 0.3212, 0.3237])
+[0 : mcmc]  - Convergence of means: R-1 = 0.009565 after 73925 accepted steps = sum([18634, 18442, 18560, 18289])
+[0 : mcmc]  - Convergence of bounds: R-1 = 0.049172 after 73925 accepted steps = sum([18634, 18442, 18560, 18289])
+[0 : mcmc] The run has converged!
+[0 : mcmc] Sampling complete after 73925 accepted steps.
