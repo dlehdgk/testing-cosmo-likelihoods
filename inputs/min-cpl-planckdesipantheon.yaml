@@ -7,5 +7,6 @@ sampler:
     method: scipy
     ignore_prior: false
     best_of: 4
+    covmat: ../chains/cpl-planckdesipantheon.covmat
 resume: true
 output: ../chains/cpl-planckdesipantheon

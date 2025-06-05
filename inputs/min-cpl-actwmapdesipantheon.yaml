@@ -1,0 +1,14 @@
+theory: !defaults [../theories/camb_cpl]
+likelihood: !defaults [../likelihoods/act, ../likelihoods/wmap, ../likelihoods/lensing, ../likelihoods/desi, ../likelihoods/pantheon]
+params: !defaults [../parameters/camb_cpl, ../parameters/camb_tsroll2]
+
+prior:
+  cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'
+
+sampler:
+  minimize:
+    method: scipy
+    ignore_prior: false
+    best_of: 4
+resume: true
+output: ../chains/cpl-actwmapdesipantheon
