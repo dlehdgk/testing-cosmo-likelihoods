@@ -665,8 +665,8 @@ params:
     derived: true
 sampler:
   minimize:
-    method: scipy
-    ignore_prior: false
+    method: iminuit
+    ignore_prior: true
     max_evals: 1e6d
     best_of: 4
     confidence_for_unbounded: 0.9999995
@@ -674,7 +674,10 @@ sampler:
     override_scipy: null
     override_bobyqa:
       rhoend: 0.05
-    override_iminuit: null
+    override_iminuit:
+      tol: 0.01
+      options:
+        stra: 1
     covmat: ../chains/cpl-planckdesipantheon.covmat
     covmat_params: null
     version: null

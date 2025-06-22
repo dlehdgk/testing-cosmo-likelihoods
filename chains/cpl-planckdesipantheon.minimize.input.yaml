@@ -152,9 +152,13 @@ params:
     latex: \tau_\mathrm{reio}
 sampler:
   minimize:
-    method: scipy
-    ignore_prior: false
+    method: iminuit
+    ignore_prior: true
     best_of: 4
     covmat: ../chains/cpl-planckdesipantheon.covmat
+    override_iminuit:
+      tol: 0.01
+      options:
+        stra: 1
 output: cpl-planckdesipantheon
 minimize: true
