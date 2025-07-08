@@ -1,6 +1,6 @@
 theory:
   camb:
-    version: 1.5.9
+    version: 1.5.8
     path: null
     speed: 0.3
     stop_at_error: false
@@ -160,27 +160,6 @@ likelihood:
     stop_at_error: true
     input_params: []
     output_params: []
-  bao.desi_dr2:
-    path: null
-    measurements_file: bao_data/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_mean.txt
-    cov_file: bao_data/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_cov.txt
-    rs_fid: 1
-    aliases:
-    - BAO
-    speed: 2000
-    type: BAO
-    rs_rescale: null
-    prob_dist: null
-    invcov_file: null
-    redshift: null
-    observable_1: null
-    observable_2: null
-    observable_3: null
-    grid_file: null
-    stop_at_error: false
-    version: null
-    input_params: []
-    output_params: []
 prior:
   SZ: 'lambda ksz_norm, A_sz: stats.norm.logpdf(ksz_norm+1.6*A_sz, loc=9.5, scale=3.0)'
 params:
@@ -285,8 +264,8 @@ params:
     latex: Y_\mathrm{P}
     derived: true
     renames:
-    - yheused
     - yhe
+    - yheused
   Y_p:
     latex: Y_P^\mathrm{BBN}
     derived: true
@@ -641,16 +620,13 @@ params:
     value: 1
   A_sbpx_217_217_EE:
     value: 1
-  chi2__BAO:
-    latex: \chi^2_\mathrm{BAO}
-    derived: true
   chi2__CMB:
     latex: \chi^2_\mathrm{CMB}
     derived: true
 sampler:
   minimize:
-    method: scipy
-    ignore_prior: false
+    method: iminuit
+    ignore_prior: true
     max_evals: 1e6d
     best_of: 4
     confidence_for_unbounded: 0.9999995
@@ -658,11 +634,14 @@ sampler:
     override_scipy: null
     override_bobyqa:
       rhoend: 0.05
-    override_iminuit: null
-    covmat: ../chains/cpl-planckdesi.covmat
+    override_iminuit:
+      tol: 0.01
+      options:
+        stra: 1
+    covmat: ../chains/cpl-planck.covmat
     covmat_params: null
     version: null
     fallback_covmat_scale: 4
-output: cpl-planckdesi
+output: cpl-planck
 minimize: true
-version: 3.5.7
+version: 3.5.6

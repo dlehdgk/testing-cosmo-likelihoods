@@ -155,27 +155,6 @@ likelihood:
     stop_at_error: true
     input_params: []
     output_params: []
-  bao.desi_dr2:
-    path: null
-    measurements_file: bao_data/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_mean.txt
-    cov_file: bao_data/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_cov.txt
-    rs_fid: 1
-    aliases:
-    - BAO
-    speed: 2000
-    type: BAO
-    rs_rescale: null
-    prob_dist: null
-    invcov_file: null
-    redshift: null
-    observable_1: null
-    observable_2: null
-    observable_3: null
-    grid_file: null
-    stop_at_error: false
-    version: null
-    input_params: []
-    output_params: []
 prior:
   cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'
 params:
@@ -344,9 +323,6 @@ params:
   A_sz:
     value: 0.0
     latex: A_\mathrm{SZ}
-  chi2__BAO:
-    latex: \chi^2_\mathrm{BAO}
-    derived: true
 sampler:
   minimize:
     method: iminuit
@@ -362,10 +338,10 @@ sampler:
       tol: 0.01
       options:
         stra: 1
-    covmat: ../chains/cpl-actwmapdesi.covmat
+    covmat: ../chains/cpl-actwmap.covmat
     covmat_params: null
     version: null
     fallback_covmat_scale: 4
-output: cpl-actwmapdesi
+output: cpl-actwmap
 minimize: true
 version: 3.5.6

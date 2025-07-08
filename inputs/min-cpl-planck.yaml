@@ -1,5 +1,5 @@
 theory: !defaults [../theories/camb_cpl]
-likelihood: !defaults [../likelihoods/planck, ../likelihoods/lowEE, ../likelihoods/lensing, ../likelihoods/desi]
+likelihood: !defaults [../likelihoods/planck, ../likelihoods/lowEE, ../likelihoods/lensing]
 params: !defaults [../parameters/camb_cpl, ../parameters/camb_tflat]
 
 sampler:
@@ -7,10 +7,10 @@ sampler:
     method: iminuit
     ignore_prior: true
     best_of: 4
-    covmat: ../chains/cpl-planckdesi.covmat
+    covmat: ../chains/cpl-planck.covmat
     override_iminuit:
       tol: 0.01
       options:
         stra: 1
 force: true
-output: ../chains/cpl-planckdesi
+output: ../chains/cpl-planck

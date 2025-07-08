@@ -155,23 +155,15 @@ likelihood:
     stop_at_error: true
     input_params: []
     output_params: []
-  bao.desi_dr2:
+  sn.pantheonplus:
     path: null
-    measurements_file: bao_data/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_mean.txt
-    cov_file: bao_data/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_cov.txt
-    rs_fid: 1
+    dataset_file: PantheonPlus/config.dataset
+    dataset_params: null
     aliases:
-    - BAO
-    speed: 2000
-    type: BAO
-    rs_rescale: null
-    prob_dist: null
-    invcov_file: null
-    redshift: null
-    observable_1: null
-    observable_2: null
-    observable_3: null
-    grid_file: null
+    - PantheonPlus
+    use_abs_mag: false
+    speed: 100
+    type: SN
     stop_at_error: false
     version: null
     input_params: []
@@ -344,8 +336,8 @@ params:
   A_sz:
     value: 0.0
     latex: A_\mathrm{SZ}
-  chi2__BAO:
-    latex: \chi^2_\mathrm{BAO}
+  chi2__SN:
+    latex: \chi^2_\mathrm{SN}
     derived: true
 sampler:
   minimize:
@@ -362,10 +354,10 @@ sampler:
       tol: 0.01
       options:
         stra: 1
-    covmat: ../chains/cpl-actwmapdesi.covmat
+    covmat: ../chains/cpl-actwmappantheon.covmat
     covmat_params: null
     version: null
     fallback_covmat_scale: 4
-output: cpl-actwmapdesi
+output: cpl-actwmappantheon
 minimize: true
 version: 3.5.6

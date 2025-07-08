@@ -1,11 +1,9 @@
 #!/bin/bash
 #SBATCH --nodes=1
-#SBATCH --account=cosmiccrack
-#SBATCH --reservation=cosmiccrack_6
 #SBATCH --ntasks-per-node=4
-#SBATCH --cpus-per-task=1
-#SBATCH --time=96:00:00
-#SBATCH --mem=20G
+#SBATCH --cpus-per-task=2
+#SBATCH --time=24:00:00
+#SBATCH --mem=16G
 #SBATCH --mail-type=fail,end
 #SBATCH --mail-user=dhlee1@sheffield.ac.uk
 
@@ -20,4 +18,4 @@ source /users/smp24dhl/cosmo/code/planck/clik/bin/clik_profile.sh
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
 chain_name="cpl-planck"
-srun --export=ALL cobaya-run ../inputs/${chain_name}.yaml
+srun --export=ALL cobaya-run --minimize ../inputs/min-${chain_name}.yaml

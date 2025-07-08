@@ -1,5 +1,5 @@
 theory: !defaults [../theories/camb_cpl]
-likelihood: !defaults [../likelihoods/act, ../likelihoods/wmap, ../likelihoods/lensing, ../likelihoods/pantheon]
+likelihood: !defaults [../likelihoods/act, ../likelihoods/wmap, ../likelihoods/lensing]
 params: !defaults [../parameters/camb_cpl, ../parameters/camb_tsroll2]
 
 prior:
@@ -10,10 +10,10 @@ sampler:
     method: iminuit
     ignore_prior: true
     best_of: 4
-    covmat: ../chains/cpl-actwmappantheon.covmat
+    covmat: ../chains/cpl-actwmap.covmat
     override_iminuit:
       tol: 0.01
       options:
         stra: 1
 force: true
-output: ../chains/cpl-actwmappantheon
+output: ../chains/cpl-actwmap

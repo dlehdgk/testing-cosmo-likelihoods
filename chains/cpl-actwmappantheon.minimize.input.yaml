@@ -26,7 +26,7 @@ likelihood:
     lens_only: false
     lmax: 4000
     variant: actplanck_baseline
-  bao.desi_dr2: null
+  sn.pantheonplus: null
 prior:
   cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'
 params:
@@ -158,10 +158,10 @@ sampler:
     method: iminuit
     ignore_prior: true
     best_of: 4
-    covmat: ../chains/cpl-actwmapdesi.covmat
+    covmat: ../chains/cpl-actwmappantheon.covmat
     override_iminuit:
       tol: 0.01
       options:
         stra: 1
-output: cpl-actwmapdesi
+output: cpl-actwmappantheon
 minimize: true

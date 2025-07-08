@@ -7,9 +7,13 @@ prior:
 
 sampler:
   minimize:
-    method: scipy
-    ignore_prior: false
+    method: iminuit
+    ignore_prior: true
     best_of: 4
     covmat: ../chains/cpl-actwmapdesi.covmat
-resume: true
+    override_iminuit:
+      tol: 0.01
+      options:
+        stra: 1
+force: true
 output: ../chains/cpl-actwmapdesi

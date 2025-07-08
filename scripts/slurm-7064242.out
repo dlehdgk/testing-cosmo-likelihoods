@@ -1,0 +1,78 @@
+[0 : output] Output to be read-from/written-into folder '../chains', with prefix 'cpl-actwmap'
+[0 : prior] *WARNING* External prior 'cal_dip_prior' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB/camb
+[0 : wmaplike.wmaplike] Loaded SZ.
+[1 : wmaplike.wmaplike] Loaded SZ.
+[2 : wmaplike.wmaplike] Loaded SZ.
+[3 : wmaplike.wmaplike] Loaded SZ.
+[1 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[2 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[3 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[0 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[3 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[1 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[2 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[0 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[1 : wmaplike.wmaplike] Initialized TT gibbs.
+[3 : wmaplike.wmaplike] Initialized TT gibbs.
+[2 : wmaplike.wmaplike] Initialized TT gibbs.
+[0 : wmaplike.wmaplike] Initialized TT gibbs.
+[0 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[2 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[3 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[1 : wmaplike.wmaplike] Initialized high-l TT/TE.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : minimize] Initializing
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : samplecollection] Loaded 18708 sample points from '../chains/cpl-actwmap.4.txt'
+[3 : minimize] Run 1/1 will start from best fit of previous sample:
+[3 : minimize] {'logA': 3.0425034, 'ns': 0.9697955, 'theta_MC_100': 1.040967, 'ombh2': 0.022668698, 'omch2': 0.11911828, 'w': -1.2147405, 'wa': -0.85360253, 'tau': 0.053563378, 'A_act': 1.0004474, 'P_act': 1.0025947}
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : samplecollection] Loaded 18469 sample points from '../chains/cpl-actwmap.2.txt'
+[1 : minimize] Run 1/1 will start from best fit of previous sample:
+[1 : minimize] {'logA': 3.0414661, 'ns': 0.97186771, 'theta_MC_100': 1.0409696, 'ombh2': 0.02266087, 'omch2': 0.1196364, 'w': -1.6848951, 'wa': 0.51667223, 'tau': 0.051596123, 'A_act': 1.0027802, 'P_act': 1.0012599}
+[0 : samplecollection] Loaded 17920 sample points from '../chains/cpl-actwmap.1.txt'
+[0 : minimize] Run 1/1 will start from best fit of previous sample:
+[0 : minimize] {'logA': 3.0287314, 'ns': 0.96863458, 'theta_MC_100': 1.0407662, 'ombh2': 0.02266751, 'omch2': 0.12026354, 'w': -1.2491504, 'wa': -0.35379459, 'tau': 0.044508291, 'A_act': 1.0022437, 'P_act': 1.0017863}
+[0 : prior] *WARNING* There are unbounded parameters (['tau']). Prior bounds are given at 0.9999995 confidence level. Beware of likelihood modes at the edge of the prior
+[0 : minimize] Covariance matrix from previous sample.
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : samplecollection] Loaded 18114 sample points from '../chains/cpl-actwmap.3.txt'
+[2 : minimize] Run 1/1 will start from best fit of previous sample:
+[2 : minimize] {'logA': 3.0499664, 'ns': 0.96916358, 'theta_MC_100': 1.0407965, 'ombh2': 0.022640702, 'omch2': 0.11972429, 'w': -0.91352611, 'wa': -0.57483933, 'tau': 0.056615333, 'A_act': 1.0003129, 'P_act': 1.0021012}
+[2 : minimize] Starting run 1/1
+[0 : minimize] Starting run 1/1
+[1 : minimize] Starting run 1/1
+[3 : minimize] Starting run 1/1
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
